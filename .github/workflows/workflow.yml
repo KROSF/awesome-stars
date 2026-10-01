@@ -1,22 +1,27 @@
-name: "Update by stargazed"
+name: "Update stars"
 # This workflow runs at 00:30 everyday
 on:
   schedule:
     - cron: "30 0 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
 jobs:
   build:
-    name: "stargazed update"
+    name: "Update README"
     runs-on: ubuntu-latest
     steps:
-      - name: "Use GitHub Actions"
-        uses: actions/checkout@v2
-      - name: "Use Node.js 12.x"
-        uses: actions/setup-node@v1
-        with:
-          node-version: "12.x"
-      - name: "Install Package"
-        run: "npm install --global stargazed"
-      - name: "Update Repo"
+      - name: "Checkout"
+        uses: actions/checkout@v7
+      - name: "Update stars and README"
         env:
-          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
-        run: 'stargazed --username  "KROSF" --token ${GITHUB_TOKEN} --repo "awesome-stars" --message "feat: stargazed update by GitHub Actions Workflow" --sort'
+          GH_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+        run: "scripts/update.sh KROSF"
+      - name: "Commit and push"
+        run: |
+          git add README.md stars.jsonl
+          git diff --cached --quiet && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "feat: update stars by GitHub Actions Workflow"
+          git push

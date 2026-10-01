@@ -51,7 +51,7 @@
 | 3 |  [BlackHole](https://github.com/ExistentialAudio/BlackHole) | BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency. | ExistentialAudio | 19850 |
 | 4 |  [obs-studio](https://github.com/obsproject/obs-studio) | OBS Studio - Free and open source software for live streaming and screen recording | obsproject | 76857 |
 | 5 |  [tini](https://github.com/krallin/tini) | A tiny but valid `init` for containers | krallin | 11248 |
-| 6 |  [scrcpy](https://github.com/Genymobile/scrcpy) | Display and control your Android device | Genymobile | 150792 |
+| 6 |  [scrcpy](https://github.com/Genymobile/scrcpy) | Display and control your Android device | Genymobile | 150793 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -65,7 +65,7 @@
 ## C++
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [dragonfly](https://github.com/dragonflydb/dragonfly) | A modern replacement for Redis and Memcached | dragonflydb | 31735 |
+| 1 |  [dragonfly](https://github.com/dragonflydb/dragonfly) | A modern replacement for Redis and Memcached | dragonflydb | 31736 |
 | 2 |  [react-native-animateable-text](https://github.com/axelra-ag/react-native-animateable-text) | 🆎  A fork of React Native's &lt;Text/&gt; component that supports Reanimated Shared Values as text! | axelra-ag | 479 |
 | 3 |  [drogon](https://github.com/drogonframework/drogon) | Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows | drogonframework | 14310 |
 | 4 |  [tesseract](https://github.com/tesseract-ocr/tesseract) | Tesseract Open Source OCR Engine (main repository) | tesseract-ocr | 76787 |
@@ -188,7 +188,7 @@
 | 57 |  [cdebug](https://github.com/iximiuz/cdebug) | cdebug - a swiss army knife of container debugging | iximiuz | 1677 |
 | 58 |  [asynq](https://github.com/hibiken/asynq) | Simple, reliable, and efficient distributed task queue in Go | hibiken | 13748 |
 | 59 |  [mediamtx](https://github.com/bluenviron/mediamtx) | Ready-to-use Media-over-QUIC / SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP live media server and media proxy that allows to read, publish, proxy, record and playback real-time video and audio streams. | bluenviron | 20310 |
-| 60 |  [netbird](https://github.com/netbirdio/netbird) | Connect your devices, users, and agents into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. | netbirdio | 29673 |
+| 60 |  [netbird](https://github.com/netbirdio/netbird) | Connect your devices, users, and agents into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. | netbirdio | 29674 |
 | 61 |  [switchboard](https://github.com/borchero/switchboard) | Kubernetes Operator for Automatically Issuing DNS Records and TLS Certificates for Traefik Ingress Routes. | borchero | 165 |
 | 62 |  [cloud-nuke](https://github.com/gruntwork-io/cloud-nuke) | A tool for cleaning up your cloud accounts by nuking (deleting) all resources within it | gruntwork-io | 3189 |
 | 63 |  [infracost](https://github.com/infracost/infracost) | Cloud cost intelligence for engineers, AI coding agents, and CI/CD 💰📉 Shift FinOps Left! | infracost | 12547 |
@@ -214,7 +214,7 @@
 | 83 |  [git-chglog](https://github.com/git-chglog/git-chglog) | [DEPRECATED] CHANGELOG generator implemented in Go (Golang) -&gt; Use now the actively maintained git-cliff | git-chglog | 2862 |
 | 84 |  [free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) | ✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos and many, many more. | MariaLetta | 4001 |
 | 85 |  [golang-for-nodejs-developers](https://github.com/miguelmota/golang-for-nodejs-developers) | Examples of Golang compared to Node.js for learning 🤓 By @miguelmota | miguelmota | 4761 |
-| 86 |  [tailscale](https://github.com/tailscale/tailscale) | The easiest, most secure way to use WireGuard and 2FA. | tailscale | 37073 |
+| 86 |  [tailscale](https://github.com/tailscale/tailscale) | The easiest, most secure way to use WireGuard and 2FA. | tailscale | 37074 |
 | 87 |  [gorush](https://github.com/appleboy/gorush) | A push notification server written in Go (Golang). | appleboy | 8777 |
 | 88 |  [docker_auth](https://github.com/cesanta/docker_auth) | Authentication server for Docker Registry 2 | cesanta | 1371 |
 | 89 |  [FlatTrack](https://github.com/FlatTrackio/FlatTrack) | Collaborate with your flatmates | FlatTrackio | 4 |
@@ -249,7 +249,7 @@
 | 118 |  [captain](https://github.com/jenssegers/captain) | ⚓️ Easily start and stop docker compose projects | jenssegers | 245 |
 | 119 |  [kube-monkey](https://github.com/asobti/kube-monkey) | An implementation of Netflix's Chaos Monkey for Kubernetes clusters | asobti | 3082 |
 | 120 |  [netlify-dynamic-dns](https://github.com/oscartbeaumont/netlify-dynamic-dns) | A Dynamic DNS Client For Netlify Managed DNS | oscartbeaumont | 65 |
-| 121 |  [chezmoi](https://github.com/twpayne/chezmoi) | Manage your dotfiles across multiple diverse machines, securely. | twpayne | 21790 |
+| 121 |  [chezmoi](https://github.com/twpayne/chezmoi) | Manage your dotfiles across multiple diverse machines, securely. | twpayne | 21791 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -264,7 +264,7 @@
 ## HTML
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [diagram-design](https://github.com/cathrynlavery/diagram-design) | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. | cathrynlavery | 43003 |
+| 1 |  [diagram-design](https://github.com/cathrynlavery/diagram-design) | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. | cathrynlavery | 43005 |
 | 2 |  [plural](https://github.com/pluralsh/plural) | Enterprise Kubernetes management, accelerated. 🚀 | pluralsh | 1506 |
 | 3 |  [twemoji](https://github.com/twitter/twemoji) | Emoji for everyone. https://twemoji.twitter.com/ | twitter | 17797 |
 | 4 |  [pattern.css](https://github.com/bansal/pattern.css) | CSS only library to fill empty background with beautiful patterns. | bansal | 3924 |
@@ -287,7 +287,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [floci](https://github.com/floci-io/floci) | Light, fluffy, and always free - The AWS Local Emulator alternative | floci-io | 26201 |
 | 2 |  [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere | Stirling-Tools | 93399 |
-| 3 |  [kestra](https://github.com/kestra-io/kestra) | Event Driven Orchestration & Scheduling Platform for Mission Critical Applications | kestra-io | 28665 |
+| 3 |  [kestra](https://github.com/kestra-io/kestra) | Event Driven Orchestration & Scheduling Platform for Mission Critical Applications | kestra-io | 28666 |
 | 4 |  [react-native-create-thumbnail](https://github.com/souvik-ghosh/react-native-create-thumbnail) | iOS/Android thumbnail generator with support for both local and remote videos | souvik-ghosh | 308 |
 | 5 |  [simple-voice-chat](https://github.com/henkelmax/simple-voice-chat) | A working voice chat in Minecraft! | henkelmax | 725 |
 | 6 |  [java-concurrency-patterns](https://github.com/LeonardoZ/java-concurrency-patterns) | Concurrency Patterns and features found in Java, through multithreaded programming. Threads, Locks, Atomics and more. | LeonardoZ | 1613 |
@@ -380,7 +380,7 @@
 | 81 |  [electron-spectron-example](https://github.com/StephenDavidson/electron-spectron-example) | Electron selenium testing using spectron | StephenDavidson | 30 |
 | 82 |  [book-example](https://github.com/hjwp/book-example) | Example code for my book on TDD with Python | hjwp | 1492 |
 | 83 |  [thor-bio-gastbyjs-blog](https://github.com/thorwebdev/thor-bio-gastbyjs-blog) | This is my portfolio and blog page. | thorwebdev | 13 |
-| 84 |  [Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) | The best design tools and plugins for everything 👉 | goabstract | 41362 |
+| 84 |  [Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) | The best design tools and plugins for everything 👉 | goabstract | 41363 |
 | 85 |  [n-puzzle](https://github.com/tristanpenman/n-puzzle) | Single-page web app for learning about graph search algorithms, such as Depth-First Search and A* Search | tristanpenman | 48 |
 
 **[⬆ Back to Index](#-contents)**
@@ -490,7 +490,7 @@
 ## PHP
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [coolify](https://github.com/coollabsio/coolify) | An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers. | coollabsio | 62483 |
+| 1 |  [coolify](https://github.com/coollabsio/coolify) | An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers. | coollabsio | 62484 |
 | 2 |  [finance](https://github.com/austinkregel/finance) | A self hosted app to help you get a better understanding of your personal finances. | austinkregel | 419 |
 | 3 |  [personal-management-system](https://github.com/Volmarg/personal-management-system) | Your web application for managing personal data. | Volmarg | 4168 |
 | 4 |  [appwrite](https://github.com/appwrite/appwrite) | Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more | appwrite | 57534 |
@@ -505,9 +505,9 @@
 ## Python
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [hindsight](https://github.com/vectorize-io/hindsight) | Hindsight: Agent Memory That Learns | vectorize-io | 44274 |
+| 1 |  [hindsight](https://github.com/vectorize-io/hindsight) | Hindsight: Agent Memory That Learns | vectorize-io | 44275 |
 | 2 |  [securo](https://github.com/securo-finance/securo) | Open-source personal finance manager. Self-hosted, privacy-first. | securo-finance | 3888 |
-| 3 |  [spec-kit](https://github.com/github/spec-kit) | 💫 Toolkit to help you get started with SDD or any other process! | github | 139725 |
+| 3 |  [spec-kit](https://github.com/github/spec-kit) | 💫 Toolkit to help you get started with SDD or any other process! | github | 139726 |
 | 4 |  [ell](https://github.com/MadcowD/ell) | A language model programming library. | MadcowD | 5850 |
 | 5 |  [Dolphin](https://github.com/bytedance/Dolphin) | The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025. | bytedance | 9058 |
 | 6 |  [speakr](https://github.com/murtaza-nasir/speakr) | Speakr is a personal, self-hosted web application designed for transcribing audio recordings | murtaza-nasir | 4050 |
@@ -602,7 +602,7 @@
 | 51 |  [tokio](https://github.com/tokio-rs/tokio) | A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ... | tokio-rs | 33299 |
 | 52 |  [Rust-Full-Stack](https://github.com/steadylearner/Rust-Full-Stack) | Rust projects here are easy to use. There are blog posts for them also. | steadylearner | 1580 |
 | 53 |  [rust-trending](https://github.com/pbzweihander/rust-trending) | A Fediverse and Bluesky bot to post trending rust repositories, inspired by TrendingGithub | pbzweihander | 205 |
-| 54 |  [sqlx](https://github.com/transact-rs/sqlx) | 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite. | transact-rs | 17516 |
+| 54 |  [sqlx](https://github.com/transact-rs/sqlx) | 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite. | transact-rs | 17517 |
 | 55 |  [rust-analyzer](https://github.com/rust-lang/rust-analyzer) | A Rust compiler front-end for IDEs | rust-lang | 16892 |
 | 56 |  [serenity](https://github.com/serenity-rs/serenity) | A Rust library for the Discord API. | serenity-rs | 5619 |
 | 57 |  [dprint](https://github.com/dprint/dprint) | Pluggable and configurable code formatting platform that unifies all your formatters. | dprint | 4085 |
@@ -614,7 +614,7 @@
 | 63 |  [hyperfine](https://github.com/sharkdp/hyperfine) | A command-line benchmarking tool | sharkdp | 28932 |
 | 64 |  [zoxide](https://github.com/ajeetdsouza/zoxide) | A smarter cd command. Supports all major shells. | ajeetdsouza | 39818 |
 | 65 |  [bottlerocket](https://github.com/bottlerocket-os/bottlerocket) | An operating system designed for hosting containers | bottlerocket-os | 9672 |
-| 66 |  [navi](https://github.com/denisidoro/navi) | An interactive cheatsheet tool for the command-line | denisidoro | 17696 |
+| 66 |  [navi](https://github.com/denisidoro/navi) | An interactive cheatsheet tool for the command-line | denisidoro | 17697 |
 | 67 |  [delta](https://github.com/dandavison/delta) | A syntax-highlighting pager for git, diff, grep, rg --json, and blame output | dandavison | 32396 |
 | 68 |  [starship](https://github.com/starship/starship) | ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! | starship | 60110 |
 
@@ -657,7 +657,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [dory](https://github.com/Augani/dory) | Dory is the complete local development system for Apple Silicon: Docker, Compose, Kubernetes, virtual machines, and policy-bound agent sandboxes. | Augani | 1596 |
 | 2 |  [LiveContainer](https://github.com/LiveContainer/LiveContainer) | Run iOS apps without actually installing them! | LiveContainer | 12541 |
-| 3 |  [AeroSpace](https://github.com/nikitabobko/AeroSpace) | AeroSpace is an i3-like tiling window manager for macOS | nikitabobko | 23325 |
+| 3 |  [AeroSpace](https://github.com/nikitabobko/AeroSpace) | AeroSpace is an i3-like tiling window manager for macOS | nikitabobko | 23326 |
 | 4 |  [Glur](https://github.com/joogps/Glur) | A library for progressive blurs in SwiftUI. | joogps | 2074 |
 | 5 |  [SwiftUI-Navigation](https://github.com/Sedlacek-Solutions/SwiftUI-Navigation) | SwiftUI library for abstracting navigation logic from views | Sedlacek-Solutions | 471 |
 | 6 |  [Alamofire](https://github.com/Alamofire/Alamofire) | Elegant HTTP Networking in Swift | Alamofire | 42410 |
@@ -676,7 +676,7 @@
 | 19 |  [react-native-share-menu](https://github.com/Expensify/react-native-share-menu) | A module for React Native that adds your app to the share menu of the device | Expensify | 695 |
 | 20 |  [Mousemory](https://github.com/rezigned/Mousemory) | Mousemory remembers cursor position across multiple monitors. | rezigned | 13 |
 | 21 |  [eul](https://github.com/gao-sun/eul) | 🖥️ macOS status monitoring app written in SwiftUI. | gao-sun | 9949 |
-| 22 |  [iina](https://github.com/iina/iina) | The modern video player for macOS. | iina | 46560 |
+| 22 |  [iina](https://github.com/iina/iina) | The modern video player for macOS. | iina | 46561 |
 | 23 |  [Amethyst](https://github.com/ianyh/Amethyst) | Automatic tiling window manager for macOS à la xmonad. | ianyh | 16276 |
 | 24 |  [macos-trash](https://github.com/sindresorhus/macos-trash) | Move files and folders to the trash | sindresorhus | 460 |
 | 25 |  [mas](https://github.com/mas-cli/mas) | :package: Mac App Store command-line interface | mas-cli | 12367 |
@@ -696,7 +696,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [monocode](https://github.com/hardbeat920/monocode) | A GUI for your coding agents | hardbeat920 | 2313 |
 | 2 |  [pr-lens](https://github.com/coldteadotai/pr-lens) | Review code 100X faster. Lens draws every PR as animated architecture and data-flow walkthroughs, inside the pull request itself. Use it as a GitHub App, GitHub Action, CLI, or a Skill for your coding agent | coldteadotai | 1806 |
-| 3 |  [orca](https://github.com/stablyai/orca) | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. | stablyai | 83132 |
+| 3 |  [orca](https://github.com/stablyai/orca) | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. | stablyai | 83135 |
 | 4 |  [es-toolkit](https://github.com/toss/es-toolkit) | A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller, a major upgrade to lodash. | toss | 11355 |
 | 5 |  [react-call](https://github.com/desko27/react-call) | Call & Await React Components | desko27 | 1373 |
 | 6 |  [Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. | Egonex-AI | 84941 |
@@ -816,7 +816,7 @@
 | 120 |  [react-native-graph](https://github.com/margelo/react-native-graph) | 📈 Beautiful, high-performance Graphs and Charts for React Native built with Skia | margelo | 2625 |
 | 121 |  [wireit](https://github.com/google/wireit) | Wireit upgrades your npm/pnpm/yarn scripts to make them smarter and more efficient. | google | 6427 |
 | 122 |  [xcode](https://github.com/EvanBacon/xcode) | Super fast pbxproj parser | EvanBacon | 221 |
-| 123 |  [neverthrow](https://github.com/supermacro/neverthrow) | Type-Safe Errors for JS & TypeScript | supermacro | 7731 |
+| 123 |  [neverthrow](https://github.com/supermacro/neverthrow) | Type-Safe Errors for JS & TypeScript | supermacro | 7732 |
 | 124 |  [react-native-url-router](https://github.com/software-mansion-labs/react-native-url-router) | A new way to create navigation in react-native | software-mansion-labs | 126 |
 | 125 |  [expo-sqlite-wrapper](https://github.com/AlenToma/expo-sqlite-wrapper) | This is a wrapper for expo-sqlite, as it make it very easy to create,update and work with the database file | AlenToma | 12 |
 | 126 |  [materio-mui-nextjs-admin-template-free](https://github.com/themeselection/materio-mui-nextjs-admin-template-free) | An enterprise-grade Next.js admin dashboard template. Made with developer experience first: Next.js v14 (App Router), Material UI (MUI), Tailwind CSS, TypeScript, ESLint, Prettier, VSCode Configs !! 🚀 | themeselection | 1969 |

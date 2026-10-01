@@ -1,9 +1,15 @@
 name: "Update stars"
-# This workflow runs at 00:30 everyday
+# This workflow runs at 00:30 everyday, fetching only new stars except on Sundays
 on:
   schedule:
-    - cron: "30 0 * * *"
+    - cron: "30 0 * * 1-6"
+    - cron: "30 0 * * 0" # full refetch to refresh star counts and descriptions
   workflow_dispatch:
+    inputs:
+      full:
+        description: "Refetch all stars instead of only new ones"
+        type: boolean
+        default: false
 permissions:
   contents: write
 jobs:
@@ -16,7 +22,7 @@ jobs:
       - name: "Update stars and README"
         env:
           GH_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
-        run: "scripts/update.sh KROSF"
+        run: "scripts/update.sh ${{ (github.event.schedule == '30 0 * * 0' || inputs.full) && '--full' || '' }} KROSF"
       - name: "Commit and push"
         run: |
           git add README.md stars.jsonl

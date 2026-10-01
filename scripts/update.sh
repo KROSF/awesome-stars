@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Updates stars.jsonl with the GitHub stars of a user and renders README.md from it.
-# Incremental by default: only fetches stars newer than the cache, so star counts and
-# descriptions of older entries stay as cached. Refetches everything with --full, when
+# Incremental by default: only fetches stars newer than the cache, so descriptions and
+# languages of older entries stay as cached. Refetches everything with --full, when
 # there is no cache, or when stars were removed.
 # Usage: scripts/update.sh [--full] [username]   (needs gh and jq)
 # Re-render from the cached stars.jsonl only: jq -rsf scripts/readme.jq --arg user <username> stars.jsonl > README.md
@@ -24,7 +24,7 @@ query='
       starredRepositories(first: 100, after: $after, orderBy: {field: STARRED_AT, direction: DESC}) {
         totalCount
         pageInfo { hasNextPage endCursor }
-        edges { starredAt node { id name url description stargazerCount owner { login } primaryLanguage { name } } }
+        edges { starredAt node { id name url description owner { login } primaryLanguage { name } } }
       }
     }
   }'
@@ -38,7 +38,7 @@ fetch() {
       jq -c --slurpfile known "$known" '
         ($known | map({key: "\(.id) \(.starredAt)", value: true}) | from_entries) as $seen
         | [.edges[] | {id: .node.id, starredAt, name: .node.name, owner: .node.owner.login, url: .node.url,
-            description: .node.description, language: .node.primaryLanguage.name, stars: .node.stargazerCount}] as $rows
+            description: .node.description, language: .node.primaryLanguage.name}] as $rows
         | ($rows | map($seen["\(.id) \(.starredAt)"] // false) | index(true)) as $stop
         | {rows: $rows[:$stop // ($rows | length)], done: ($stop != null or (.pageInfo.hasNextPage | not)),
            after: .pageInfo.endCursor, total: .totalCount}')

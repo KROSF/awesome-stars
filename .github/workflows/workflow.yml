@@ -3,7 +3,7 @@ name: "Update stars"
 on:
   schedule:
     - cron: "30 0 * * 1-6"
-    - cron: "30 0 * * 0" # full refetch to refresh star counts and descriptions
+    - cron: "30 0 * * 0" # full refetch to refresh descriptions and languages
   workflow_dispatch:
     inputs:
       full:

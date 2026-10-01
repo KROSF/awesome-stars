@@ -36,9 +36,9 @@ map(.language //= "Others") as $repos
     ($groups[] |
       "",
       "## \(.[0].language)",
-      "|  | Name \t|  Description \t| Author  \t|  Stars \t|",
-      "|---\t|---\t|---\t|---\t|---\t|",
-      (to_entries[] | "| \(.key + 1) |  [\(.value.name)](\(.value.url)) | \(.value.description | cell) | \(.value.owner) | \(.value.stars) |"),
+      "|  | Name \t|  Description \t| Author  \t|",
+      "|---\t|---\t|---\t|---\t|",
+      (to_entries[] | "| \(.key + 1) |  [\(.value.name)](\(.value.url)) | \(.value.description | cell) | \(.value.owner) |"),
       "",
       "**[⬆ Back to Index](#-contents)**"
     ),

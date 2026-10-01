@@ -103,7 +103,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [xinsight](https://github.com/victor-marino/xinsight) |  | victor-marino | 12 |
-| 2 |  [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond | flutter | 179205 |
+| 2 |  [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond | flutter | 179204 |
 | 3 |  [graphql-flutter](https://github.com/zino-hofmann/graphql-flutter) | A GraphQL client for Flutter, bringing all the features from a modern GraphQL client to one easy to use package. | zino-hofmann | 3269 |
 
 **[⬆ Back to Index](#-contents)**
@@ -175,7 +175,7 @@
 | 44 |  [answer](https://github.com/apache/answer) | A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer. | apache | 15687 |
 | 45 |  [gluetun](https://github.com/passteque/gluetun) | VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in. | passteque | 15676 |
 | 46 |  [tbls](https://github.com/k1LoW/tbls) | tbls is a CI-Friendly tool to document a database, written in Go. | k1LoW | 4354 |
-| 47 |  [httpsms](https://github.com/NdoleStudio/httpsms) | Send and receive SMS messages using your Android phone programmatically via a simple HTTP API | NdoleStudio | 5260 |
+| 47 |  [httpsms](https://github.com/NdoleStudio/httpsms) | Send and receive SMS messages using your Android phone programmatically via a simple HTTP API | NdoleStudio | 5261 |
 | 48 |  [actions-runner-controller](https://github.com/actions/actions-runner-controller) | Kubernetes controller for GitHub Actions self-hosted runners | actions | 6539 |
 | 49 |  [opencost](https://github.com/opencost/opencost) | Cost monitoring for Kubernetes workloads and cloud costs | opencost | 6767 |
 | 50 |  [owncast](https://github.com/owncast/owncast) | Take control over your live stream video by running it yourself.  Streaming + chat out of the box. | owncast | 11567 |
@@ -232,7 +232,7 @@
 | 101 |  [learngo](https://github.com/inancgumus/learngo) | ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs. | inancgumus | 20160 |
 | 102 |  [rancher](https://github.com/rancher/rancher) | Complete container management platform | rancher | 25945 |
 | 103 |  [excelize](https://github.com/qax-os/excelize) | Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets | qax-os | 20958 |
-| 104 |  [caddy](https://github.com/caddyserver/caddy) | Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS | caddyserver | 76218 |
+| 104 |  [caddy](https://github.com/caddyserver/caddy) | Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS | caddyserver | 76219 |
 | 105 |  [go-interview](https://github.com/shomali11/go-interview) | Collection of Technical Interview Questions solved with Go | shomali11 | 4682 |
 | 106 |  [mkcert](https://github.com/FiloSottile/mkcert) | A simple zero-config tool to make locally trusted development certificates with any names you'd like. | FiloSottile | 59721 |
 | 107 |  [qrcp](https://github.com/claudiodangelis/qrcp) | :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal. | claudiodangelis | 10517 |
@@ -380,7 +380,7 @@
 | 81 |  [electron-spectron-example](https://github.com/StephenDavidson/electron-spectron-example) | Electron selenium testing using spectron | StephenDavidson | 30 |
 | 82 |  [book-example](https://github.com/hjwp/book-example) | Example code for my book on TDD with Python | hjwp | 1492 |
 | 83 |  [thor-bio-gastbyjs-blog](https://github.com/thorwebdev/thor-bio-gastbyjs-blog) | This is my portfolio and blog page. | thorwebdev | 13 |
-| 84 |  [Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) | The best design tools and plugins for everything 👉 | goabstract | 41363 |
+| 84 |  [Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) | The best design tools and plugins for everything 👉 | goabstract | 41364 |
 | 85 |  [n-puzzle](https://github.com/tristanpenman/n-puzzle) | Single-page web app for learning about graph search algorithms, such as Depth-First Search and A* Search | tristanpenman | 48 |
 
 **[⬆ Back to Index](#-contents)**
@@ -505,7 +505,7 @@
 ## Python
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [hindsight](https://github.com/vectorize-io/hindsight) | Hindsight: Agent Memory That Learns | vectorize-io | 44275 |
+| 1 |  [hindsight](https://github.com/vectorize-io/hindsight) | Hindsight: Agent Memory That Learns | vectorize-io | 44277 |
 | 2 |  [securo](https://github.com/securo-finance/securo) | Open-source personal finance manager. Self-hosted, privacy-first. | securo-finance | 3888 |
 | 3 |  [spec-kit](https://github.com/github/spec-kit) | 💫 Toolkit to help you get started with SDD or any other process! | github | 139726 |
 | 4 |  [ell](https://github.com/MadcowD/ell) | A language model programming library. | MadcowD | 5850 |
@@ -694,9 +694,9 @@
 ## TypeScript
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [monocode](https://github.com/hardbeat920/monocode) | A GUI for your coding agents | hardbeat920 | 2313 |
+| 1 |  [monocode](https://github.com/hardbeat920/monocode) | A GUI for your coding agents | hardbeat920 | 2315 |
 | 2 |  [pr-lens](https://github.com/coldteadotai/pr-lens) | Review code 100X faster. Lens draws every PR as animated architecture and data-flow walkthroughs, inside the pull request itself. Use it as a GitHub App, GitHub Action, CLI, or a Skill for your coding agent | coldteadotai | 1806 |
-| 3 |  [orca](https://github.com/stablyai/orca) | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. | stablyai | 83135 |
+| 3 |  [orca](https://github.com/stablyai/orca) | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. | stablyai | 83137 |
 | 4 |  [es-toolkit](https://github.com/toss/es-toolkit) | A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller, a major upgrade to lodash. | toss | 11355 |
 | 5 |  [react-call](https://github.com/desko27/react-call) | Call & Await React Components | desko27 | 1373 |
 | 6 |  [Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. | Egonex-AI | 84941 |
@@ -880,7 +880,7 @@
 | 184 |  [date-fns](https://github.com/date-fns/date-fns) | ⏳ Modern JavaScript date utility library ⌛️ | date-fns | 36650 |
 | 185 |  [material-icons-browser-extension](https://github.com/material-extensions/material-icons-browser-extension) | Material Design icons for web browsers | material-extensions | 786 |
 | 186 |  [type-fest](https://github.com/sindresorhus/type-fest) | A collection of essential TypeScript types | sindresorhus | 17428 |
-| 187 |  [n8n](https://github.com/n8n-io/n8n) | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. | n8n-io | 206464 |
+| 187 |  [n8n](https://github.com/n8n-io/n8n) | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. | n8n-io | 206465 |
 | 188 |  [backstage](https://github.com/backstage/backstage) | Backstage is an open framework for building developer portals | backstage | 34540 |
 | 189 |  [next-auth](https://github.com/nextauthjs/next-auth) | Authentication for the Web. | nextauthjs | 28371 |
 | 190 |  [clipanion](https://github.com/arcanis/clipanion) | Type-safe CLI library / framework with no runtime dependencies | arcanis | 1256 |
@@ -927,7 +927,7 @@
 | 231 |  [LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) | Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more. | James-Yu | 12350 |
 | 232 |  [ink](https://github.com/vadimdemedes/ink) | 🌈 React for interactive command-line apps | vadimdemedes | 40000 |
 | 233 |  [developer-roadmap](https://github.com/nilbuild/developer-roadmap) | Interactive roadmaps, guides and other educational content to help developers grow in their careers. | nilbuild | 368675 |
-| 234 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 193355 |
+| 234 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 193356 |
 
 **[⬆ Back to Index](#-contents)**
 

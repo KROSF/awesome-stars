@@ -1,15 +1,14 @@
 #!/usr/bin/env bash
 # Updates stars.jsonl with the GitHub stars of a user and renders README.md from it.
-# Incremental by default: only fetches stars newer than the cache, so descriptions and
-# languages of older entries stay as cached. Refetches everything with --full, when
-# there is no cache, or when stars were removed.
-# Usage: scripts/update.sh [--full] [username]   (needs gh and jq)
+# Incremental: only fetches stars newer than the cache, so descriptions and languages of
+# older entries stay as cached. Refetches everything when there is no cache or when stars
+# were removed (delete stars.jsonl to force it).
+# Usage: scripts/update.sh [username]   (needs gh and jq)
 # Re-render from the cached stars.jsonl only: jq -rsf scripts/readme.jq --arg user <username> stars.jsonl > README.md
 set -euo pipefail
 cd "$(dirname "$0")/.."
 
 full=false
-if [[ "${1:-}" == "--full" ]]; then full=true; shift; fi
 user="${1:-${GITHUB_REPOSITORY_OWNER:?pass a username}}"
 cache=stars.jsonl
 [[ -s $cache ]] || full=true

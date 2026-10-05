@@ -2,28 +2,28 @@
 
 > My GitHub stars, grouped by language. Updated daily by [a GitHub Actions workflow](.github/workflows/workflow.yml).
 
-![Total](https://img.shields.io/badge/Total-694-green.svg)
-![Updated](https://img.shields.io/badge/Updated-2026--10--01-blue.svg)
+![Total](https://img.shields.io/badge/Total-693-green.svg)
+![Updated](https://img.shields.io/badge/Updated-2026--10--05-blue.svg)
 
 ## Contents
 
 - [Recently starred](#recently-starred)
-- Languages: [C](#c) (6) · [C#](#c-1) (1) · [C++](#c-2) (6) · [Clojure](#clojure) (1) · [CMake](#cmake) (2) · [CSS](#css) (4) · [Dart](#dart) (3) · [Dockerfile](#dockerfile) (5) · [Elixir](#elixir) (1) · [Go](#go) (121) · [Haskell](#haskell) (1) · [HCL](#hcl) (2) · [HTML](#html) (8) · [Java](#java) (6) · [JavaScript](#javascript) (85) · [Jupyter Notebook](#jupyter-notebook) (1) · [Kotlin](#kotlin) (16) · [Lua](#lua) (3) · [Makefile](#makefile) (2) · [MDX](#mdx) (5) · [Mustache](#mustache) (1) · [Objective-C](#objective-c) (1) · [PHP](#php) (9) · [Python](#python) (31) · [Ruby](#ruby) (1) · [Rust](#rust) (68) · [SCSS](#scss) (2) · [Shell](#shell) (11) · [Starlark](#starlark) (1) · [Swift](#swift) (26) · [TeX](#tex) (1) · [TypeScript](#typescript) (234) · [Vim Script](#vim-script) (1) · [Vue](#vue) (3) · [Other](#other) (25)
+- Languages: [C](#c) (6) · [C#](#c-1) (1) · [C++](#c-2) (6) · [Clojure](#clojure) (1) · [CMake](#cmake) (2) · [CSS](#css) (4) · [Dart](#dart) (3) · [Dockerfile](#dockerfile) (5) · [Elixir](#elixir) (1) · [Go](#go) (122) · [Haskell](#haskell) (1) · [HCL](#hcl) (2) · [HTML](#html) (8) · [Java](#java) (6) · [JavaScript](#javascript) (85) · [Jupyter Notebook](#jupyter-notebook) (1) · [Kotlin](#kotlin) (16) · [Lua](#lua) (3) · [Makefile](#makefile) (2) · [MDX](#mdx) (5) · [Mustache](#mustache) (1) · [Objective-C](#objective-c) (1) · [PHP](#php) (9) · [Python](#python) (30) · [Ruby](#ruby) (1) · [Rust](#rust) (68) · [SCSS](#scss) (2) · [Shell](#shell) (11) · [Starlark](#starlark) (1) · [Swift](#swift) (25) · [TeX](#tex) (1) · [TypeScript](#typescript) (234) · [Vim Script](#vim-script) (1) · [Vue](#vue) (3) · [Other](#other) (25)
 
 ## Recently starred
 
 | Repository | Description | Language |
 | --- | --- | --- |
 | [hardbeat920/monocode](https://github.com/hardbeat920/monocode) | A GUI for your coding agents | [TypeScript](#typescript) |
-| [tt-a1i/archify](https://github.com/tt-a1i/archify) | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. | [JavaScript](#javascript) |
+| [tt-a1i/archify](https://github.com/tt-a1i/archify) | Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. | [JavaScript](#javascript) |
 | [coldteadotai/pr-lens](https://github.com/coldteadotai/pr-lens) | Review code 100X faster. Lens draws every PR as animated architecture and data-flow walkthroughs, inside the pull request itself. Use it as a GitHub App, GitHub Action, CLI, or a Skill for your coding agent | [TypeScript](#typescript) |
 | [Augani/dory](https://github.com/Augani/dory) | Dory is the complete local development system for Apple Silicon: Docker, Compose, Kubernetes, virtual machines, and policy-bound agent sandboxes. | [Swift](#swift) |
 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. | [HTML](#html) |
 | [yusing/godoxy](https://github.com/yusing/godoxy) | High-performance reverse proxy and container orchestrator for self-hosters | [Go](#go) |
-| [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) | Run iOS apps without actually installing them! | [Swift](#swift) |
 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows | [Rust](#rust) |
 | [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config. | [JavaScript](#javascript) |
 | [stablyai/orca](https://github.com/stablyai/orca) | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. | [TypeScript](#typescript) |
+| [toss/es-toolkit](https://github.com/toss/es-toolkit) | A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller, a major upgrade to lodash. | [TypeScript](#typescript) |
 
 ## C
 
@@ -158,6 +158,7 @@
 | [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws) | Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity. |
 | [fluxcd/flagger](https://github.com/fluxcd/flagger) | Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments) |
 | [mlabouardy/komiser](https://github.com/mlabouardy/komiser) | Open-source cloud-environment inspector. Supporting AWS, GCP, Azure, and more! Your cloud resources will have nowhere to hide! |
+| [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) | An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search, alerts, and plugins for formats, models and business rules. |
 | [stakater/Reloader](https://github.com/stakater/Reloader) | A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it! |
 | [aptible/supercronic](https://github.com/aptible/supercronic) | Cron for containers |
 | [loft-sh/devpod](https://github.com/loft-sh/devpod) | Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker. |
@@ -294,7 +295,7 @@
 
 | Repository | Description |
 | --- | --- |
-| [tt-a1i/archify](https://github.com/tt-a1i/archify) | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. |
+| [tt-a1i/archify](https://github.com/tt-a1i/archify) | Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. |
 | [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config. |
 | [Dispatcharr/Dispatcharr](https://github.com/Dispatcharr/Dispatcharr) | Your Ultimate IPTV & Stream Management Companion |
 | [alam00000/bentopdf](https://github.com/alam00000/bentopdf) | The Privacy First PDF Toolkit |
@@ -489,7 +490,6 @@
 | [darrenburns/posting](https://github.com/darrenburns/posting) | The modern API client that lives in your terminal. |
 | [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) | Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper. |
 | [GitHubSecurityLab/actions-permissions](https://github.com/GitHubSecurityLab/actions-permissions) | GitHub token permissions Monitor and Advisor actions |
-| [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) | Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. Any Files. Anyway you want. |
 | [geldata/gel](https://github.com/geldata/gel) | Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more. |
 | [httpie/cli](https://github.com/httpie/cli) | 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. |
 | [speedyg0nz/MagInkCal](https://github.com/speedyg0nz/MagInkCal) | E-Ink Magic Calendar that automatically syncs to Google Calendar and runs off a battery powered Raspberry Pi Zero |
@@ -637,7 +637,6 @@
 | Repository | Description |
 | --- | --- |
 | [Augani/dory](https://github.com/Augani/dory) | Dory is the complete local development system for Apple Silicon: Docker, Compose, Kubernetes, virtual machines, and policy-bound agent sandboxes. |
-| [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) | Run iOS apps without actually installing them! |
 | [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) | AeroSpace is an i3-like tiling window manager for macOS |
 | [joogps/Glur](https://github.com/joogps/Glur) | A library for progressive blurs in SwiftUI. |
 | [Sedlacek-Solutions/SwiftUI-Navigation](https://github.com/Sedlacek-Solutions/SwiftUI-Navigation) | SwiftUI library for abstracting navigation logic from views |
@@ -687,7 +686,7 @@
 | [rajnandan1/kener](https://github.com/rajnandan1/kener) | Stunning status pages, batteries included! |
 | [eastlondoner/mineflare](https://github.com/eastlondoner/mineflare) |  |
 | [C4illin/ConvertX](https://github.com/C4illin/ConvertX) | 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️ |
-| [homarr-labs/homarr](https://github.com/homarr-labs/homarr) | A modern and easy to use dashboard. 40+ integrations. 20K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration. |
+| [homarr-labs/homarr](https://github.com/homarr-labs/homarr) | A modern and easy to use dashboard. 80+ integrations. 20K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration. |
 | [fosrl/pangolin](https://github.com/fosrl/pangolin) | Modern networking and security platform providing secure access and connectivity to apps, infrastructure, and AI workloads. Connect and protect your users. |
 | [dahlia/logtape](https://github.com/dahlia/logtape) | Unobtrusive logging library with zero dependencies for Deno, Node.js, Bun, browsers, and edge functions |
 | [iib0011/omni-tools](https://github.com/iib0011/omni-tools) | Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser! |
@@ -774,7 +773,7 @@
 | [cypress-io/cypress-chrome-recorder](https://github.com/cypress-io/cypress-chrome-recorder) | Export Cypress Tests from Google Chrome DevTools' Recorder |
 | [neilkuan/cdk-common](https://github.com/neilkuan/cdk-common) | This Constructs Library will collection of useful function and class for AWS CDK. |
 | [cloudgardener/cdk-aws-fargate-github-actions-runner](https://github.com/cloudgardener/cdk-aws-fargate-github-actions-runner) | CDK construct library to deploy GitHub Actions self-hosted runner to AWS Fargate. |
-| [udondan/iam-floyd](https://github.com/udondan/iam-floyd) | AWS IAM policy statement generator with fluent interface |
+| [udondan/iam-floyd](https://github.com/udondan/iam-floyd) | AWS IAM policy statement generator with a fluent interface, for TypeScript, JavaScript, Python, Java, C# and Go. |
 | [aripalo/aws-cdk-github-oidc](https://github.com/aripalo/aws-cdk-github-oidc) | CDK constructs to use OpenID Connect for authenticating your Github Action workflow with AWS IAM |
 | [sodiray/radash](https://github.com/sodiray/radash) | Functional utility library - modern, simple, typed, powerful |
 | [Noovolari/leapp](https://github.com/Noovolari/leapp) | Leapp is the DevTool to access your cloud |

@@ -2,13 +2,13 @@
 
 > My GitHub stars, grouped by language. Updated daily by [a GitHub Actions workflow](.github/workflows/workflow.yml).
 
-![Total](https://img.shields.io/badge/Total-693-green.svg)
-![Updated](https://img.shields.io/badge/Updated-2026--10--05-blue.svg)
+![Total](https://img.shields.io/badge/Total-694-green.svg)
+![Updated](https://img.shields.io/badge/Updated-2026--10--06-blue.svg)
 
 ## Contents
 
 - [Recently starred](#recently-starred)
-- Languages: [C](#c) (6) · [C#](#c-1) (1) · [C++](#c-2) (6) · [Clojure](#clojure) (1) · [CMake](#cmake) (2) · [CSS](#css) (4) · [Dart](#dart) (3) · [Dockerfile](#dockerfile) (5) · [Elixir](#elixir) (1) · [Go](#go) (122) · [Haskell](#haskell) (1) · [HCL](#hcl) (2) · [HTML](#html) (8) · [Java](#java) (6) · [JavaScript](#javascript) (85) · [Jupyter Notebook](#jupyter-notebook) (1) · [Kotlin](#kotlin) (16) · [Lua](#lua) (3) · [Makefile](#makefile) (2) · [MDX](#mdx) (5) · [Mustache](#mustache) (1) · [Objective-C](#objective-c) (1) · [PHP](#php) (9) · [Python](#python) (30) · [Ruby](#ruby) (1) · [Rust](#rust) (68) · [SCSS](#scss) (2) · [Shell](#shell) (11) · [Starlark](#starlark) (1) · [Swift](#swift) (25) · [TeX](#tex) (1) · [TypeScript](#typescript) (234) · [Vim Script](#vim-script) (1) · [Vue](#vue) (3) · [Other](#other) (25)
+- Languages: [C](#c) (6) · [C#](#c-1) (1) · [C++](#c-2) (6) · [Clojure](#clojure) (1) · [CMake](#cmake) (2) · [CSS](#css) (4) · [Dart](#dart) (3) · [Dockerfile](#dockerfile) (5) · [Elixir](#elixir) (1) · [Go](#go) (122) · [Haskell](#haskell) (1) · [HCL](#hcl) (2) · [HTML](#html) (8) · [Java](#java) (5) · [JavaScript](#javascript) (85) · [Jupyter Notebook](#jupyter-notebook) (1) · [Kotlin](#kotlin) (16) · [Lua](#lua) (3) · [Makefile](#makefile) (2) · [MDX](#mdx) (5) · [Mustache](#mustache) (1) · [Objective-C](#objective-c) (1) · [PHP](#php) (9) · [Python](#python) (30) · [Ruby](#ruby) (1) · [Rust](#rust) (68) · [SCSS](#scss) (2) · [Shell](#shell) (11) · [Starlark](#starlark) (1) · [Swift](#swift) (26) · [TeX](#tex) (1) · [TypeScript](#typescript) (235) · [Vim Script](#vim-script) (1) · [Vue](#vue) (3) · [Other](#other) (25)
 
 ## Recently starred
 
@@ -20,10 +20,10 @@
 | [Augani/dory](https://github.com/Augani/dory) | Dory is the complete local development system for Apple Silicon: Docker, Compose, Kubernetes, virtual machines, and policy-bound agent sandboxes. | [Swift](#swift) |
 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. | [HTML](#html) |
 | [yusing/godoxy](https://github.com/yusing/godoxy) | High-performance reverse proxy and container orchestrator for self-hosters | [Go](#go) |
+| [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) | Run iOS apps without actually installing them! | [Swift](#swift) |
 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows | [Rust](#rust) |
 | [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config. | [JavaScript](#javascript) |
 | [stablyai/orca](https://github.com/stablyai/orca) | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. | [TypeScript](#typescript) |
-| [toss/es-toolkit](https://github.com/toss/es-toolkit) | A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller, a major upgrade to lodash. | [TypeScript](#typescript) |
 
 ## C
 
@@ -283,7 +283,6 @@
 | Repository | Description |
 | --- | --- |
 | [floci-io/floci](https://github.com/floci-io/floci) | Light, fluffy, and always free - The AWS Local Emulator alternative |
-| [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere |
 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | Event Driven Orchestration & Scheduling Platform for Mission Critical Applications |
 | [souvik-ghosh/react-native-create-thumbnail](https://github.com/souvik-ghosh/react-native-create-thumbnail) | iOS/Android thumbnail generator with support for both local and remote videos |
 | [henkelmax/simple-voice-chat](https://github.com/henkelmax/simple-voice-chat) | A working voice chat in Minecraft! |
@@ -637,6 +636,7 @@
 | Repository | Description |
 | --- | --- |
 | [Augani/dory](https://github.com/Augani/dory) | Dory is the complete local development system for Apple Silicon: Docker, Compose, Kubernetes, virtual machines, and policy-bound agent sandboxes. |
+| [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) | Run iOS apps without actually installing them! |
 | [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) | AeroSpace is an i3-like tiling window manager for macOS |
 | [joogps/Glur](https://github.com/joogps/Glur) | A library for progressive blurs in SwiftUI. |
 | [Sedlacek-Solutions/SwiftUI-Navigation](https://github.com/Sedlacek-Solutions/SwiftUI-Navigation) | SwiftUI library for abstracting navigation logic from views |
@@ -687,6 +687,7 @@
 | [eastlondoner/mineflare](https://github.com/eastlondoner/mineflare) |  |
 | [C4illin/ConvertX](https://github.com/C4illin/ConvertX) | 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️ |
 | [homarr-labs/homarr](https://github.com/homarr-labs/homarr) | A modern and easy to use dashboard. 80+ integrations. 20K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration. |
+| [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere |
 | [fosrl/pangolin](https://github.com/fosrl/pangolin) | Modern networking and security platform providing secure access and connectivity to apps, infrastructure, and AI workloads. Connect and protect your users. |
 | [dahlia/logtape](https://github.com/dahlia/logtape) | Unobtrusive logging library with zero dependencies for Deno, Node.js, Bun, browsers, and edge functions |
 | [iib0011/omni-tools](https://github.com/iib0011/omni-tools) | Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser! |
@@ -816,7 +817,7 @@
 | [velsa/styled-rn](https://github.com/velsa/styled-rn) | Styled React Native Components |
 | [Karthik-B-06/react-native-segmented-control](https://github.com/Karthik-B-06/react-native-segmented-control) | 🎉 React Native Segmented Control 🎮  for both iOS, Android and Web |
 | [appandflow/react-native-safe-area-context](https://github.com/appandflow/react-native-safe-area-context) | A flexible way to handle safe area insets in JS. Also works on Android and Web! |
-| [Shopify/react-native-skia](https://github.com/Shopify/react-native-skia) | High-performance React Native Graphics using Skia |
+| [wcandillon/react-native-skia](https://github.com/wcandillon/react-native-skia) | High-performance React Native Graphics using Skia |
 | [dano-inc/react-query-helper](https://github.com/dano-inc/react-query-helper) | A helper library to use react-query more efficient, consistency |
 | [turker0/header](https://github.com/turker0/header) | A header library for react-native. Uses power of ReAnimated 2. |
 | [urql-graphql/urql](https://github.com/urql-graphql/urql) | The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow. |

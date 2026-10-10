@@ -3,24 +3,24 @@
 > My GitHub stars, grouped by language. Updated daily by [a GitHub Actions workflow](.github/workflows/workflow.yml).
 
 ![Total](https://img.shields.io/badge/Total-694-green.svg)
-![Updated](https://img.shields.io/badge/Updated-2026--10--06-blue.svg)
+![Updated](https://img.shields.io/badge/Updated-2026--10--10-blue.svg)
 
 ## Contents
 
 - [Recently starred](#recently-starred)
-- Languages: [C](#c) (6) · [C#](#c-1) (1) · [C++](#c-2) (6) · [Clojure](#clojure) (1) · [CMake](#cmake) (2) · [CSS](#css) (4) · [Dart](#dart) (3) · [Dockerfile](#dockerfile) (5) · [Elixir](#elixir) (1) · [Go](#go) (122) · [Haskell](#haskell) (1) · [HCL](#hcl) (2) · [HTML](#html) (8) · [Java](#java) (5) · [JavaScript](#javascript) (85) · [Jupyter Notebook](#jupyter-notebook) (1) · [Kotlin](#kotlin) (16) · [Lua](#lua) (3) · [Makefile](#makefile) (2) · [MDX](#mdx) (5) · [Mustache](#mustache) (1) · [Objective-C](#objective-c) (1) · [PHP](#php) (9) · [Python](#python) (30) · [Ruby](#ruby) (1) · [Rust](#rust) (68) · [SCSS](#scss) (2) · [Shell](#shell) (11) · [Starlark](#starlark) (1) · [Swift](#swift) (26) · [TeX](#tex) (1) · [TypeScript](#typescript) (235) · [Vim Script](#vim-script) (1) · [Vue](#vue) (3) · [Other](#other) (25)
+- Languages: [C](#c) (6) · [C#](#c-1) (1) · [C++](#c-2) (7) · [Clojure](#clojure) (1) · [CMake](#cmake) (2) · [CSS](#css) (4) · [Dart](#dart) (3) · [Dockerfile](#dockerfile) (5) · [Elixir](#elixir) (1) · [Go](#go) (122) · [Haskell](#haskell) (1) · [HCL](#hcl) (2) · [HTML](#html) (8) · [Java](#java) (5) · [JavaScript](#javascript) (84) · [Jupyter Notebook](#jupyter-notebook) (1) · [Kotlin](#kotlin) (16) · [Lua](#lua) (3) · [Makefile](#makefile) (2) · [MDX](#mdx) (5) · [Mustache](#mustache) (1) · [Objective-C](#objective-c) (1) · [PHP](#php) (8) · [Python](#python) (31) · [Ruby](#ruby) (1) · [Rust](#rust) (68) · [SCSS](#scss) (2) · [Shell](#shell) (11) · [Starlark](#starlark) (1) · [Swift](#swift) (25) · [TeX](#tex) (1) · [TypeScript](#typescript) (236) · [Vim Script](#vim-script) (1) · [Vue](#vue) (3) · [Other](#other) (25)
 
 ## Recently starred
 
 | Repository | Description | Language |
 | --- | --- | --- |
+| [cloudflare/workerd](https://github.com/cloudflare/workerd) | The JavaScript / Wasm runtime that powers Cloudflare Workers | [C++](#c-2) |
 | [hardbeat920/monocode](https://github.com/hardbeat920/monocode) | A GUI for your coding agents | [TypeScript](#typescript) |
 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. | [JavaScript](#javascript) |
 | [coldteadotai/pr-lens](https://github.com/coldteadotai/pr-lens) | Review code 100X faster. Lens draws every PR as animated architecture and data-flow walkthroughs, inside the pull request itself. Use it as a GitHub App, GitHub Action, CLI, or a Skill for your coding agent | [TypeScript](#typescript) |
 | [Augani/dory](https://github.com/Augani/dory) | Dory is the complete local development system for Apple Silicon: Docker, Compose, Kubernetes, virtual machines, and policy-bound agent sandboxes. | [Swift](#swift) |
 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. | [HTML](#html) |
 | [yusing/godoxy](https://github.com/yusing/godoxy) | High-performance reverse proxy and container orchestrator for self-hosters | [Go](#go) |
-| [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) | Run iOS apps without actually installing them! | [Swift](#swift) |
 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows | [Rust](#rust) |
 | [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config. | [JavaScript](#javascript) |
 | [stablyai/orca](https://github.com/stablyai/orca) | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. | [TypeScript](#typescript) |
@@ -50,6 +50,7 @@
 
 | Repository | Description |
 | --- | --- |
+| [cloudflare/workerd](https://github.com/cloudflare/workerd) | The JavaScript / Wasm runtime that powers Cloudflare Workers |
 | [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) | A modern replacement for Redis and Memcached |
 | [axelra-ag/react-native-animateable-text](https://github.com/axelra-ag/react-native-animateable-text) | 🆎  A fork of React Native's &lt;Text/&gt; component that supports Reanimated Shared Values as text! |
 | [drogonframework/drogon](https://github.com/drogonframework/drogon) | Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows |
@@ -181,7 +182,7 @@
 | [iximiuz/cdebug](https://github.com/iximiuz/cdebug) | cdebug - a swiss army knife of container debugging |
 | [hibiken/asynq](https://github.com/hibiken/asynq) | Simple, reliable, and efficient distributed task queue in Go |
 | [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) | Ready-to-use Media-over-QUIC / SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP live media server and media proxy that allows to read, publish, proxy, record and playback real-time video and audio streams. |
-| [netbirdio/netbird](https://github.com/netbirdio/netbird) | Connect your devices, users, and agents into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. |
+| [netbirdio/netbird](https://github.com/netbirdio/netbird) | NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard® |
 | [borchero/switchboard](https://github.com/borchero/switchboard) | Kubernetes Operator for Automatically Issuing DNS Records and TLS Certificates for Traefik Ingress Routes. |
 | [gruntwork-io/cloud-nuke](https://github.com/gruntwork-io/cloud-nuke) | A tool for cleaning up your cloud accounts by nuking (deleting) all resources within it |
 | [infracost/infracost](https://github.com/infracost/infracost) | Cloud cost intelligence for engineers, AI coding agents, and CI/CD 💰📉 Shift FinOps Left! |
@@ -296,7 +297,6 @@
 | --- | --- |
 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. |
 | [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config. |
-| [Dispatcharr/Dispatcharr](https://github.com/Dispatcharr/Dispatcharr) | Your Ultimate IPTV & Stream Management Companion |
 | [alam00000/bentopdf](https://github.com/alam00000/bentopdf) | The Privacy First PDF Toolkit |
 | [chrisvel/tududi](https://github.com/chrisvel/tududi) | A calm, open system for organizing life and work. Tasks, projects, notes, areas, and smart workflows - self-hosted or hosted. |
 | [ardoviniandrea/ViniPlay](https://github.com/ardoviniandrea/ViniPlay) |  |
@@ -467,7 +467,6 @@
 | [coollabsio/coolify](https://github.com/coollabsio/coolify) | An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers. |
 | [austinkregel/finance](https://github.com/austinkregel/finance) | A self hosted app to help you get a better understanding of your personal finances. |
 | [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) | Your web application for managing personal data. |
-| [appwrite/appwrite](https://github.com/appwrite/appwrite) | Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more |
 | [lonnieezell/myth-auth](https://github.com/lonnieezell/myth-auth) | One-stop Auth package for CodeIgniter 4 |
 | [webmozart/standalone-forms](https://github.com/webmozart/standalone-forms) |  |
 | [paragonie/easydb](https://github.com/paragonie/easydb) | Easy-to-use PDO wrapper for PHP projects. |
@@ -483,6 +482,7 @@
 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | Hindsight: Agent Memory That Learns |
 | [securo-finance/securo](https://github.com/securo-finance/securo) | Open-source personal finance manager. Self-hosted, privacy-first. |
 | [github/spec-kit](https://github.com/github/spec-kit) | 💫 Toolkit to help you get started with SDD or any other process! |
+| [Dispatcharr/Dispatcharr](https://github.com/Dispatcharr/Dispatcharr) | Your Ultimate IPTV & Stream Management Companion |
 | [MadcowD/ell](https://github.com/MadcowD/ell) | A language model programming library. |
 | [bytedance/Dolphin](https://github.com/bytedance/Dolphin) | The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025. |
 | [murtaza-nasir/speakr](https://github.com/murtaza-nasir/speakr) | Speakr is a personal, self-hosted web application designed for transcribing audio recordings |
@@ -636,7 +636,6 @@
 | Repository | Description |
 | --- | --- |
 | [Augani/dory](https://github.com/Augani/dory) | Dory is the complete local development system for Apple Silicon: Docker, Compose, Kubernetes, virtual machines, and policy-bound agent sandboxes. |
-| [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) | Run iOS apps without actually installing them! |
 | [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) | AeroSpace is an i3-like tiling window manager for macOS |
 | [joogps/Glur](https://github.com/joogps/Glur) | A library for progressive blurs in SwiftUI. |
 | [Sedlacek-Solutions/SwiftUI-Navigation](https://github.com/Sedlacek-Solutions/SwiftUI-Navigation) | SwiftUI library for abstracting navigation logic from views |
@@ -839,7 +838,7 @@
 | [slidevjs/slidev](https://github.com/slidevjs/slidev) | Presentation Slides for Developers |
 | [codingcommons/typesafe-i18n](https://github.com/codingcommons/typesafe-i18n) | A fully type-safe and lightweight internationalization library for all your TypeScript and JavaScript projects. |
 | [invertase/notifee](https://github.com/invertase/notifee) | ⚛️ A feature rich notifications library for React Native. |
-| [callstack/react-native-pager-view](https://github.com/callstack/react-native-pager-view) | React Native wrapper for the Android ViewPager and iOS UIPageViewController. |
+| [callstack/react-native-pager-view](https://github.com/callstack/react-native-pager-view) | React Native pager component for swipeable pages, built on Jetpack Compose Pager on Android and SwiftUI TabView on iOS |
 | [kolodny/immutability-helper](https://github.com/kolodny/immutability-helper) | mutate a copy of data without changing the original source |
 | [lbaldy/flipper-plugin-async-storage-advanced](https://github.com/lbaldy/flipper-plugin-async-storage-advanced) | Flipper plugin for async storage, provides options to view/edit/delete/create async storage entries via Flipper. |
 | [starters-dev/rn-starter](https://github.com/starters-dev/rn-starter) | 🦄 React Native Starter - Powered by cli-rn, React Navigation (v6), Expo Modules, RN UI lib, MMKV, Mobx, Reanimated 2, Dark Mode, Localization, Notifications, Permissions, and much more. |
@@ -852,6 +851,7 @@
 | [trpc/trpc](https://github.com/trpc/trpc) | 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. |
 | [SigNoz/signoz](https://github.com/SigNoz/signoz) | SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log management, infra monitoring, etc. Combined with SigNoz MCP and a native AI teammate (in SigNoz Cloud) it helps you build more resilient apps. |
 | [calcom/cal.diy](https://github.com/calcom/cal.diy) | Scheduling infrastructure for absolutely everyone. |
+| [appwrite/appwrite](https://github.com/appwrite/appwrite) | The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more |
 | [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) | A lightweight Node.js private proxy registry |
 | [g-plane/type-gymnastics](https://github.com/g-plane/type-gymnastics) | Collection of wonderful TypeScript type gymnastics code snippets. |
 | [g-plane/typed-query-selector](https://github.com/g-plane/typed-query-selector) | Better typed `querySelector` and `querySelectorAll`. |

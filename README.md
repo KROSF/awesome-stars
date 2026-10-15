@@ -2,13 +2,13 @@
 
 > My GitHub stars, grouped by language. Updated daily by [a GitHub Actions workflow](.github/workflows/workflow.yml).
 
-![Total](https://img.shields.io/badge/Total-694-green.svg)
-![Updated](https://img.shields.io/badge/Updated-2026--10--10-blue.svg)
+![Total](https://img.shields.io/badge/Total-695-green.svg)
+![Updated](https://img.shields.io/badge/Updated-2026--10--15-blue.svg)
 
 ## Contents
 
 - [Recently starred](#recently-starred)
-- Languages: [C](#c) (6) · [C#](#c-1) (1) · [C++](#c-2) (7) · [Clojure](#clojure) (1) · [CMake](#cmake) (2) · [CSS](#css) (4) · [Dart](#dart) (3) · [Dockerfile](#dockerfile) (5) · [Elixir](#elixir) (1) · [Go](#go) (122) · [Haskell](#haskell) (1) · [HCL](#hcl) (2) · [HTML](#html) (8) · [Java](#java) (5) · [JavaScript](#javascript) (84) · [Jupyter Notebook](#jupyter-notebook) (1) · [Kotlin](#kotlin) (16) · [Lua](#lua) (3) · [Makefile](#makefile) (2) · [MDX](#mdx) (5) · [Mustache](#mustache) (1) · [Objective-C](#objective-c) (1) · [PHP](#php) (8) · [Python](#python) (31) · [Ruby](#ruby) (1) · [Rust](#rust) (68) · [SCSS](#scss) (2) · [Shell](#shell) (11) · [Starlark](#starlark) (1) · [Swift](#swift) (25) · [TeX](#tex) (1) · [TypeScript](#typescript) (236) · [Vim Script](#vim-script) (1) · [Vue](#vue) (3) · [Other](#other) (25)
+- Languages: [C](#c) (6) · [C#](#c-1) (1) · [C++](#c-2) (7) · [Clojure](#clojure) (1) · [CMake](#cmake) (2) · [CSS](#css) (4) · [Dart](#dart) (3) · [Dockerfile](#dockerfile) (5) · [Elixir](#elixir) (1) · [Go](#go) (123) · [Haskell](#haskell) (1) · [HCL](#hcl) (2) · [HTML](#html) (8) · [Java](#java) (5) · [JavaScript](#javascript) (84) · [Jupyter Notebook](#jupyter-notebook) (1) · [Kotlin](#kotlin) (16) · [Lua](#lua) (3) · [Makefile](#makefile) (2) · [MDX](#mdx) (5) · [Mustache](#mustache) (1) · [Objective-C](#objective-c) (1) · [PHP](#php) (8) · [Python](#python) (30) · [Ruby](#ruby) (1) · [Rust](#rust) (68) · [SCSS](#scss) (2) · [Shell](#shell) (11) · [Starlark](#starlark) (1) · [Swift](#swift) (26) · [TeX](#tex) (1) · [TypeScript](#typescript) (236) · [Vim Script](#vim-script) (1) · [Vue](#vue) (3) · [Other](#other) (25)
 
 ## Recently starred
 
@@ -19,11 +19,11 @@
 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. | [JavaScript](#javascript) |
 | [coldteadotai/pr-lens](https://github.com/coldteadotai/pr-lens) | Review code 100X faster. Lens draws every PR as animated architecture and data-flow walkthroughs, inside the pull request itself. Use it as a GitHub App, GitHub Action, CLI, or a Skill for your coding agent | [TypeScript](#typescript) |
 | [Augani/dory](https://github.com/Augani/dory) | Dory is the complete local development system for Apple Silicon: Docker, Compose, Kubernetes, virtual machines, and policy-bound agent sandboxes. | [Swift](#swift) |
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. | [HTML](#html) |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. | [HTML](#html) |
 | [yusing/godoxy](https://github.com/yusing/godoxy) | High-performance reverse proxy and container orchestrator for self-hosters | [Go](#go) |
+| [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) | Run iOS apps without actually installing them! | [Swift](#swift) |
 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows | [Rust](#rust) |
 | [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config. | [JavaScript](#javascript) |
-| [stablyai/orca](https://github.com/stablyai/orca) | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. | [TypeScript](#typescript) |
 
 ## C
 
@@ -144,6 +144,7 @@
 | [lima-vm/lima](https://github.com/lima-vm/lima) | Linux virtual machines, with a focus on running containers |
 | [github/github-mcp-server](https://github.com/github/github-mcp-server) | GitHub's official MCP Server |
 | [golang-migrate/migrate](https://github.com/golang-migrate/migrate) | Database migrations. CLI and Golang library. |
+| [darrenburns/posting](https://github.com/darrenburns/posting) | The modern API client that lives in your terminal. |
 | [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox) | A continuation of HomeBox the inventory and organization system built for the Home User |
 | [xataio/pgroll](https://github.com/xataio/pgroll) | PostgreSQL zero-downtime migrations made easy |
 | [eduardolat/pgbackweb](https://github.com/eduardolat/pgbackweb) | 🐘 Effortless PostgreSQL backups with a user-friendly web interface! 🌐💾 |
@@ -268,7 +269,7 @@
 
 | Repository | Description |
 | --- | --- |
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
 | [pluralsh/plural](https://github.com/pluralsh/plural) | Enterprise Kubernetes management, accelerated. 🚀 |
 | [twitter/twemoji](https://github.com/twitter/twemoji) | Emoji for everyone. https://twemoji.twitter.com/ |
 | [bansal/pattern.css](https://github.com/bansal/pattern.css) | CSS only library to fill empty background with beautiful patterns. |
@@ -486,7 +487,6 @@
 | [MadcowD/ell](https://github.com/MadcowD/ell) | A language model programming library. |
 | [bytedance/Dolphin](https://github.com/bytedance/Dolphin) | The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025. |
 | [murtaza-nasir/speakr](https://github.com/murtaza-nasir/speakr) | Speakr is a personal, self-hosted web application designed for transcribing audio recordings |
-| [darrenburns/posting](https://github.com/darrenburns/posting) | The modern API client that lives in your terminal. |
 | [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) | Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper. |
 | [GitHubSecurityLab/actions-permissions](https://github.com/GitHubSecurityLab/actions-permissions) | GitHub token permissions Monitor and Advisor actions |
 | [geldata/gel](https://github.com/geldata/gel) | Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more. |
@@ -636,6 +636,7 @@
 | Repository | Description |
 | --- | --- |
 | [Augani/dory](https://github.com/Augani/dory) | Dory is the complete local development system for Apple Silicon: Docker, Compose, Kubernetes, virtual machines, and policy-bound agent sandboxes. |
+| [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) | Run iOS apps without actually installing them! |
 | [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) | AeroSpace is an i3-like tiling window manager for macOS |
 | [joogps/Glur](https://github.com/joogps/Glur) | A library for progressive blurs in SwiftUI. |
 | [Sedlacek-Solutions/SwiftUI-Navigation](https://github.com/Sedlacek-Solutions/SwiftUI-Navigation) | SwiftUI library for abstracting navigation logic from views |
@@ -751,7 +752,7 @@
 | [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) | Performant financial charts built with HTML5 canvas |
 | [mswjs/msw](https://github.com/mswjs/msw) | The industry standard for API mocking in JavaScript. |
 | [kristiandupont/kanel](https://github.com/kristiandupont/kanel) | Generate Typescript types from Postgres |
-| [Infisical/infisical](https://github.com/Infisical/infisical) | Infisical is the open-source platform for secrets, certificates, and privileged access management. |
+| [Infisical/infisical](https://github.com/Infisical/infisical) | Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents. |
 | [makeplane/plane](https://github.com/makeplane/plane) | 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage. |
 | [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) | A JavaScript library to position floating elements and create interactions for them. |
 | [unocss/unocss](https://github.com/unocss/unocss) | The instant on-demand atomic CSS engine. |
@@ -820,7 +821,7 @@
 | [dano-inc/react-query-helper](https://github.com/dano-inc/react-query-helper) | A helper library to use react-query more efficient, consistency |
 | [turker0/header](https://github.com/turker0/header) | A header library for react-native. Uses power of ReAnimated 2. |
 | [urql-graphql/urql](https://github.com/urql-graphql/urql) | The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow. |
-| [fonoster/fonoster](https://github.com/fonoster/fonoster) | 🚀 The open-source alternative to Twilio. |
+| [fonoster/fonoster](https://github.com/fonoster/fonoster) | The AI that answers the phone. |
 | [colorfy-software/react-native-modalfy](https://github.com/colorfy-software/react-native-modalfy) | 🥞 Modal citizen of React Native. |
 | [novuhq/novu](https://github.com/novuhq/novu) | The open-source communication infrastructure for agents and products |
 | [jubilee-works/eslint-config-timetree](https://github.com/jubilee-works/eslint-config-timetree) | A sharable ESLint config for TimeTree |

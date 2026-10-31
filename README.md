@@ -2,18 +2,19 @@
 
 > My GitHub stars, grouped by language. Updated daily by [a GitHub Actions workflow](.github/workflows/workflow.yml).
 
-![Total](https://img.shields.io/badge/Total-697-green.svg)
-![Updated](https://img.shields.io/badge/Updated-2026--10--27-blue.svg)
+![Total](https://img.shields.io/badge/Total-698-green.svg)
+![Updated](https://img.shields.io/badge/Updated-2026--10--31-blue.svg)
 
 ## Contents
 
 - [Recently starred](#recently-starred)
-- Languages: [C](#c) (6) · [C#](#c-1) (1) · [C++](#c-2) (7) · [Clojure](#clojure) (1) · [CMake](#cmake) (2) · [CSS](#css) (4) · [Dart](#dart) (3) · [Dockerfile](#dockerfile) (5) · [Elixir](#elixir) (1) · [Go](#go) (123) · [Haskell](#haskell) (1) · [HCL](#hcl) (2) · [HTML](#html) (8) · [Java](#java) (5) · [JavaScript](#javascript) (84) · [Jupyter Notebook](#jupyter-notebook) (1) · [Kotlin](#kotlin) (16) · [Lua](#lua) (3) · [Makefile](#makefile) (2) · [MDX](#mdx) (5) · [Mustache](#mustache) (1) · [Objective-C](#objective-c) (1) · [PHP](#php) (8) · [Python](#python) (30) · [Ruby](#ruby) (1) · [Rust](#rust) (68) · [SCSS](#scss) (2) · [Shell](#shell) (11) · [Starlark](#starlark) (1) · [Swift](#swift) (26) · [TeX](#tex) (1) · [TypeScript](#typescript) (238) · [Vim Script](#vim-script) (1) · [Vue](#vue) (3) · [Other](#other) (25)
+- Languages: [C](#c) (6) · [C#](#c-1) (1) · [C++](#c-2) (7) · [Clojure](#clojure) (1) · [CMake](#cmake) (2) · [CSS](#css) (4) · [Dart](#dart) (3) · [Dockerfile](#dockerfile) (5) · [Elixir](#elixir) (1) · [Go](#go) (123) · [Haskell](#haskell) (1) · [HCL](#hcl) (2) · [HTML](#html) (8) · [Java](#java) (5) · [JavaScript](#javascript) (84) · [Jupyter Notebook](#jupyter-notebook) (1) · [Kotlin](#kotlin) (16) · [Lua](#lua) (3) · [Makefile](#makefile) (2) · [MDX](#mdx) (5) · [Mustache](#mustache) (1) · [Objective-C](#objective-c) (1) · [PHP](#php) (8) · [Python](#python) (30) · [Ruby](#ruby) (1) · [Rust](#rust) (69) · [SCSS](#scss) (2) · [Shell](#shell) (11) · [Starlark](#starlark) (1) · [Swift](#swift) (26) · [TeX](#tex) (1) · [TypeScript](#typescript) (238) · [Vim Script](#vim-script) (1) · [Vue](#vue) (3) · [Other](#other) (25)
 
 ## Recently starred
 
 | Repository | Description | Language |
 | --- | --- | --- |
+| [colinhacks/reylo](https://github.com/colinhacks/reylo) | Import .sql files into TypeScript with full type inference and zero codegen. | [Rust](#rust) |
 | [croffasia/itsaplan](https://github.com/croffasia/itsaplan) | ⭐️⭐️⭐️ Open-source, self-hosted alternative to Linear and Plane. Project management and issue tracking where teams and AI agents work side by side to plan and ship products. | [TypeScript](#typescript) |
 | [productdevbook/etiket](https://github.com/productdevbook/etiket) | Zero-dependency barcode & QR code SVG, PNG generator. 40+ formats, styled QR codes, tree-shakeable. Pure TypeScript. | [TypeScript](#typescript) |
 | [cloudflare/workerd](https://github.com/cloudflare/workerd) | The JavaScript / Wasm runtime that powers Cloudflare Workers | [C++](#c-2) |
@@ -23,7 +24,6 @@
 | [Augani/dory](https://github.com/Augani/dory) | Dory is the complete local development system for Apple Silicon: Docker, Compose, Kubernetes, virtual machines, and policy-bound agent sandboxes. | [Swift](#swift) |
 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. | [HTML](#html) |
 | [yusing/godoxy](https://github.com/yusing/godoxy) | High-performance reverse proxy and container orchestrator for self-hosters | [Go](#go) |
-| [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) | Run iOS apps without actually installing them! | [Swift](#swift) |
 
 ## C
 
@@ -525,6 +525,7 @@
 
 | Repository | Description |
 | --- | --- |
+| [colinhacks/reylo](https://github.com/colinhacks/reylo) | Import .sql files into TypeScript with full type inference and zero codegen. |
 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows |
 | [zhang-accounting/zhang](https://github.com/zhang-accounting/zhang) | 账 - a plain text double-accounting tool which is compatible with beancount but more powerful |
 | [bensadeh/tailspin](https://github.com/bensadeh/tailspin) | 🌀 A log file highlighter |

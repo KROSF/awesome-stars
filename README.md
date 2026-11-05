@@ -3,33 +3,32 @@
 > My GitHub stars, grouped by language. Updated daily by [a GitHub Actions workflow](.github/workflows/workflow.yml).
 
 ![Total](https://img.shields.io/badge/Total-699-green.svg)
-![Updated](https://img.shields.io/badge/Updated-2026--11--02-blue.svg)
+![Updated](https://img.shields.io/badge/Updated-2026--11--05-blue.svg)
 
 ## Contents
 
 - [Recently starred](#recently-starred)
-- Languages: [C](#c) (6) · [C#](#c-1) (1) · [C++](#c-2) (7) · [Clojure](#clojure) (1) · [CMake](#cmake) (2) · [CSS](#css) (4) · [Dart](#dart) (3) · [Dockerfile](#dockerfile) (5) · [Elixir](#elixir) (1) · [Go](#go) (123) · [Haskell](#haskell) (1) · [HCL](#hcl) (2) · [HTML](#html) (8) · [Java](#java) (5) · [JavaScript](#javascript) (84) · [Jupyter Notebook](#jupyter-notebook) (1) · [Kotlin](#kotlin) (16) · [Lua](#lua) (3) · [Makefile](#makefile) (2) · [MDX](#mdx) (5) · [Mustache](#mustache) (1) · [Objective-C](#objective-c) (1) · [PHP](#php) (8) · [Python](#python) (30) · [Ruby](#ruby) (1) · [Rust](#rust) (70) · [SCSS](#scss) (2) · [Shell](#shell) (11) · [Starlark](#starlark) (1) · [Swift](#swift) (26) · [TeX](#tex) (1) · [TypeScript](#typescript) (238) · [Vim Script](#vim-script) (1) · [Vue](#vue) (3) · [Other](#other) (25)
+- Languages: [C](#c) (5) · [C#](#c-1) (1) · [C++](#c-2) (7) · [Clojure](#clojure) (1) · [CMake](#cmake) (2) · [CSS](#css) (4) · [Dart](#dart) (3) · [Dockerfile](#dockerfile) (4) · [Elixir](#elixir) (1) · [Go](#go) (122) · [Haskell](#haskell) (1) · [HCL](#hcl) (2) · [HTML](#html) (8) · [Java](#java) (5) · [JavaScript](#javascript) (83) · [Jupyter Notebook](#jupyter-notebook) (1) · [Kotlin](#kotlin) (16) · [Lua](#lua) (3) · [Makefile](#makefile) (2) · [MDX](#mdx) (5) · [Mustache](#mustache) (1) · [Objective-C](#objective-c) (1) · [PHP](#php) (8) · [Python](#python) (31) · [Ruby](#ruby) (1) · [Rust](#rust) (71) · [SCSS](#scss) (2) · [Shell](#shell) (12) · [Starlark](#starlark) (1) · [Swift](#swift) (26) · [TeX](#tex) (1) · [TypeScript](#typescript) (238) · [Vim Script](#vim-script) (1) · [Vue](#vue) (3) · [Other](#other) (26)
 
 ## Recently starred
 
 | Repository | Description | Language |
 | --- | --- | --- |
+| [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) | 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier. | [Python](#python) |
 | [emanuele-em/kanzo](https://github.com/emanuele-em/kanzo) | Self-hosted, sharable kanban for humans and agents. One 4.5 MB binary, 4.5 MB of RAM, 10 to 60 tokens per agent reply, starts in 2 ms, zero setup. | [Rust](#rust) |
 | [colinhacks/reylo](https://github.com/colinhacks/reylo) | Import .sql files into TypeScript with full type inference and zero codegen. | [Rust](#rust) |
 | [croffasia/itsaplan](https://github.com/croffasia/itsaplan) | ⭐️⭐️⭐️ Open-source, self-hosted alternative to Linear and Plane. Project management and issue tracking where teams and AI agents work side by side to plan and ship products. | [TypeScript](#typescript) |
 | [productdevbook/etiket](https://github.com/productdevbook/etiket) | Zero-dependency barcode & QR code SVG, PNG generator. 40+ formats, styled QR codes, tree-shakeable. Pure TypeScript. | [TypeScript](#typescript) |
 | [cloudflare/workerd](https://github.com/cloudflare/workerd) | The JavaScript / Wasm runtime that powers Cloudflare Workers | [C++](#c-2) |
-| [hardbeat920/monocode](https://github.com/hardbeat920/monocode) | A GUI for your coding agents | [TypeScript](#typescript) |
+| [hardbeat920/monocode](https://github.com/hardbeat920/monocode) | A GUI for your coding agents | [Rust](#rust) |
 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. | [JavaScript](#javascript) |
 | [coldteadotai/pr-lens](https://github.com/coldteadotai/pr-lens) | Review code 100X faster. Lens draws every PR as animated architecture and data-flow walkthroughs, inside the pull request itself. Use it as a GitHub App, GitHub Action, CLI, or a Skill for your coding agent | [TypeScript](#typescript) |
 | [Augani/dory](https://github.com/Augani/dory) | Dory is the complete local development system for Apple Silicon: Docker, Compose, Kubernetes, virtual machines, and policy-bound agent sandboxes. | [Swift](#swift) |
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. | [HTML](#html) |
 
 ## C
 
 | Repository | Description |
 | --- | --- |
-| [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local |
 | [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) | A highly customizable macOS status bar replacement |
 | [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) | BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency. |
 | [obsproject/obs-studio](https://github.com/obsproject/obs-studio) | OBS Studio - Free and open source software for live streaming and screen recording |
@@ -102,7 +101,6 @@
 
 | Repository | Description |
 | --- | --- |
-| [BeardedTek/notesnook-docker](https://github.com/BeardedTek/notesnook-docker) | Full Docker stack for Notesnook sync server and web app |
 | [qdm12/latexdevcontainer](https://github.com/qdm12/latexdevcontainer) | LaTeX development container for Visual Studio Code Remote Containers Development |
 | [Rohmilchkaese/spotifyd](https://github.com/Rohmilchkaese/spotifyd) | spotifyd docker image - based on Alpine Linux |
 | [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) | ✅ The Node.js best practices list (July 2026) |
@@ -155,7 +153,6 @@
 | [tarampampam/error-pages](https://github.com/tarampampam/error-pages) | 🪂 Tiny, zero-dep HTTP server & Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more |
 | [axllent/mailpit](https://github.com/axllent/mailpit) | An email and SMTP testing tool with API for developers |
 | [synfinatic/aws-sso-cli](https://github.com/synfinatic/aws-sso-cli) | A powerful tool for using AWS Identity Center for the CLI and web console. |
-| [dokku/dokku](https://github.com/dokku/dokku) | A docker-powered PaaS that helps you build and manage the lifecycle of applications |
 | [iann0036/iamlive](https://github.com/iann0036/iamlive) | Generate an IAM policy from AWS, Azure, or Google Cloud (GCP) calls using client-side monitoring (CSM) or embedded proxy |
 | [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws) | Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity. |
 | [fluxcd/flagger](https://github.com/fluxcd/flagger) | Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments) |
@@ -269,7 +266,7 @@
 
 | Repository | Description |
 | --- | --- |
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
 | [pluralsh/plural](https://github.com/pluralsh/plural) | Enterprise Kubernetes management, accelerated. 🚀 |
 | [twitter/twemoji](https://github.com/twitter/twemoji) | Emoji for everyone. https://twemoji.twitter.com/ |
 | [bansal/pattern.css](https://github.com/bansal/pattern.css) | CSS only library to fill empty background with beautiful patterns. |
@@ -285,7 +282,7 @@
 | Repository | Description |
 | --- | --- |
 | [floci-io/floci](https://github.com/floci-io/floci) | Light, fluffy, and always free - The AWS Local Emulator alternative |
-| [kestra-io/kestra](https://github.com/kestra-io/kestra) | Event Driven Orchestration & Scheduling Platform for Mission Critical Applications |
+| [kestra-io/kestra](https://github.com/kestra-io/kestra) | Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-versioned, scalable to millions of executions. |
 | [souvik-ghosh/react-native-create-thumbnail](https://github.com/souvik-ghosh/react-native-create-thumbnail) | iOS/Android thumbnail generator with support for both local and remote videos |
 | [henkelmax/simple-voice-chat](https://github.com/henkelmax/simple-voice-chat) | A working voice chat in Minecraft! |
 | [LeonardoZ/java-concurrency-patterns](https://github.com/LeonardoZ/java-concurrency-patterns) | Concurrency Patterns and features found in Java, through multithreaded programming. Threads, Locks, Atomics and more. |
@@ -305,7 +302,6 @@
 | [btw-so/btw](https://github.com/btw-so/btw) | Open source Medium alternative- set up your personal blog in minutes. |
 | [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) | Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook set up! |
 | [Mozzo1000/booklogr](https://github.com/Mozzo1000/booklogr) | A simple, self-hosted service to keep track of your personal library 📚 |
-| [nodejs/amaro](https://github.com/nodejs/amaro) | Node.js TypeScript wrapper |
 | [docsifyjs/docsify](https://github.com/docsifyjs/docsify) | 🃏 A magical documentation site generator. |
 | [nodejs/Release](https://github.com/nodejs/Release) | Node.js Release Working Group |
 | [videojs/m3u8-parser](https://github.com/videojs/m3u8-parser) | An m3u8 parser. |
@@ -465,7 +461,7 @@
 
 | Repository | Description |
 | --- | --- |
-| [coollabsio/coolify](https://github.com/coollabsio/coolify) | An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers. |
+| [coollabsio/coolify](https://github.com/coollabsio/coolify) | An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers. |
 | [austinkregel/finance](https://github.com/austinkregel/finance) | A self hosted app to help you get a better understanding of your personal finances. |
 | [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) | Your web application for managing personal data. |
 | [lonnieezell/myth-auth](https://github.com/lonnieezell/myth-auth) | One-stop Auth package for CodeIgniter 4 |
@@ -480,6 +476,7 @@
 
 | Repository | Description |
 | --- | --- |
+| [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) | 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier. |
 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | Hindsight: Agent Memory That Learns |
 | [securo-finance/securo](https://github.com/securo-finance/securo) | Open-source personal finance manager. Self-hosted, privacy-first. |
 | [github/spec-kit](https://github.com/github/spec-kit) | 💫 Toolkit to help you get started with SDD or any other process! |
@@ -527,11 +524,13 @@
 | --- | --- |
 | [emanuele-em/kanzo](https://github.com/emanuele-em/kanzo) | Self-hosted, sharable kanban for humans and agents. One 4.5 MB binary, 4.5 MB of RAM, 10 to 60 tokens per agent reply, starts in 2 ms, zero setup. |
 | [colinhacks/reylo](https://github.com/colinhacks/reylo) | Import .sql files into TypeScript with full type inference and zero codegen. |
+| [hardbeat920/monocode](https://github.com/hardbeat920/monocode) | A GUI for your coding agents |
 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows |
 | [zhang-accounting/zhang](https://github.com/zhang-accounting/zhang) | 账 - a plain text double-accounting tool which is compatible with beancount but more powerful |
 | [bensadeh/tailspin](https://github.com/bensadeh/tailspin) | 🌀 A log file highlighter |
 | [theopfr/somo](https://github.com/theopfr/somo) | A human-friendly alternative to netstat for socket and port monitoring on Linux and macOS. |
 | [hook0/hook0](https://github.com/hook0/hook0) | Open-source webhook server that helps you provide webhooks to your users. It handles for you a great amount of features that are usually tedious to (re)implement. |
+| [nodejs/amaro](https://github.com/nodejs/amaro) | Node.js TypeScript wrapper |
 | [orhun/git-cliff](https://github.com/orhun/git-cliff) | A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ |
 | [astral-sh/uv](https://github.com/astral-sh/uv) | An extremely fast Python package and project manager, written in Rust. |
 | [jdx/mise](https://github.com/jdx/mise) | dev tools, env vars, task runner |
@@ -568,7 +567,6 @@
 | [comtrya/comtrya](https://github.com/comtrya/comtrya) | Configuration Management for Localhost / dotfiles |
 | [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs |
 | [eyre-rs/eyre](https://github.com/eyre-rs/eyre) | A trait object based error handling type for easy idiomatic error handling and reporting in Rust applications |
-| [agrinman/tunnelto](https://github.com/agrinman/tunnelto) | Expose your local web server to the internet with a public URL. |
 | [tg-rs/carapax](https://github.com/tg-rs/carapax) | A Telegram Bot API framework |
 | [rusoto/rusoto](https://github.com/rusoto/rusoto) | AWS SDK for Rust |
 | [serde-rs/serde](https://github.com/serde-rs/serde) | Serialization framework for Rust |
@@ -612,6 +610,7 @@
 | Repository | Description |
 | --- | --- |
 | [tgenv/tgenv](https://github.com/tgenv/tgenv) | A tool to manage multiples Terragrunt versions |
+| [dokku/dokku](https://github.com/dokku/dokku) | A docker-powered PaaS that helps you build and manage the lifecycle of applications |
 | [stefanprodan/kube-tools](https://github.com/stefanprodan/kube-tools) | Kubernetes tools for GitHub Actions CI |
 | [super-linter/super-linter](https://github.com/super-linter/super-linter) | Combination of multiple linters to run as a GitHub Action or standalone |
 | [natkuhn/Chrome-debug](https://github.com/natkuhn/Chrome-debug) | For debugging in VS Code on the Mac: a double-clickable icon which will start Chrome with "--remote-debugging-port=9222" |
@@ -680,12 +679,12 @@
 | --- | --- |
 | [croffasia/itsaplan](https://github.com/croffasia/itsaplan) | ⭐️⭐️⭐️ Open-source, self-hosted alternative to Linear and Plane. Project management and issue tracking where teams and AI agents work side by side to plan and ship products. |
 | [productdevbook/etiket](https://github.com/productdevbook/etiket) | Zero-dependency barcode & QR code SVG, PNG generator. 40+ formats, styled QR codes, tree-shakeable. Pure TypeScript. |
-| [hardbeat920/monocode](https://github.com/hardbeat920/monocode) | A GUI for your coding agents |
 | [coldteadotai/pr-lens](https://github.com/coldteadotai/pr-lens) | Review code 100X faster. Lens draws every PR as animated architecture and data-flow walkthroughs, inside the pull request itself. Use it as a GitHub App, GitHub Action, CLI, or a Skill for your coding agent |
-| [stablyai/orca](https://github.com/stablyai/orca) | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. |
+| [stablyai/orca](https://github.com/stablyai/orca) | Orca is the place for working with a fleet of coding agents (e.g. Claude Code, Codex). Run any agent with your own subscription. Available on desktop, mobile and remote runtime. |
 | [toss/es-toolkit](https://github.com/toss/es-toolkit) | A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller, a major upgrade to lodash. |
 | [desko27/react-call](https://github.com/desko27/react-call) | Call & Await React Components |
 | [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. |
+| [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local |
 | [johanohly/AirTrail](https://github.com/johanohly/AirTrail) | A modern, open-source personal flight tracking system |
 | [rajnandan1/kener](https://github.com/rajnandan1/kener) | Stunning status pages, batteries included! |
 | [eastlondoner/mineflare](https://github.com/eastlondoner/mineflare) |  |
@@ -701,7 +700,7 @@
 | [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) | Blazing fast file vault written in TypeScript! 🚀 |
 | [frappe/books](https://github.com/frappe/books) | Free Accounting Software |
 | [Litlyx/litlyx](https://github.com/Litlyx/litlyx) | Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative to Google Analytics, MixPanel, Plausible, Umami & Matomo. |
-| [getumbrel/umbrel](https://github.com/getumbrel/umbrel) | An elegant home server OS. Run OpenClaw, store your files and, and do more with over 300 apps in the Umbrel App Store. |
+| [getumbrel/umbrel](https://github.com/getumbrel/umbrel) | An elegant home server OS. Run AI agents, store your files, backup your photos, and do more with over 300 apps in the Umbrel App Store. |
 | [unjs/destr](https://github.com/unjs/destr) | 🚀 Faster, secure and convenient alternative for JSON.parse for arbitrary inputs |
 | [unjs/httpxy](https://github.com/unjs/httpxy) | 🔀 A Full-Featured HTTP and WebSocket Proxy for Node.js |
 | [twentyhq/favicon](https://github.com/twentyhq/favicon) | 100% free and open-source favicon provider |
@@ -773,7 +772,7 @@
 | [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) | An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作 |
 | [hayes/pothos](https://github.com/hayes/pothos) | Pothos GraphQL is library for creating GraphQL schemas in typescript using a strongly typed code first approach |
 | [Sparticuz/chromium](https://github.com/Sparticuz/chromium) | Chromium for Serverless Platforms |
-| [facebook/lexical](https://github.com/facebook/lexical) | Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance. |
+| [meta/lexical](https://github.com/meta/lexical) | Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance. |
 | [raycharius/slack-block-builder](https://github.com/raycharius/slack-block-builder) | Lightweight Node.js library for building Slack Block Kit UIs, with a declarative syntax inspired by SwiftUI. |
 | [cypress-io/cypress-chrome-recorder](https://github.com/cypress-io/cypress-chrome-recorder) | Export Cypress Tests from Google Chrome DevTools' Recorder |
 | [neilkuan/cdk-common](https://github.com/neilkuan/cdk-common) | This Constructs Library will collection of useful function and class for AWS CDK. |
@@ -908,7 +907,7 @@
 | [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) | 📓 Lint commit messages |
 | [dbis-uibk/relax](https://github.com/dbis-uibk/relax) | RelaX - a relational algebra calculator |
 | [dzhavat/css-flexbox-cheatsheet](https://github.com/dzhavat/css-flexbox-cheatsheet) | VS Code extension that lets you open a CSS Flexbox cheatsheet directly in the editor. |
-| [prisma/orm](https://github.com/prisma/orm) | Next-generation ORM for Node.js & TypeScript \| PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB |
+| [prisma/orm](https://github.com/prisma/orm) | The Prisma ORM: write your application in TypeScript with human-readable queries instead of SQL. Host your database on Prisma Postgres and your app on Prisma Compute. |
 | [nathanbuchar/electron-settings](https://github.com/nathanbuchar/electron-settings) | 📝 A simple persistent user settings framework for Electron. |
 | [shaharkazaz/vscode-git-merger](https://github.com/shaharkazaz/vscode-git-merger) | Available at vscode marketplace https://marketplace.visualstudio.com/items?itemName=shaharkazaz.git-merger |
 | [graphql-editor/graphql-zeus](https://github.com/graphql-editor/graphql-zeus) | GraphQL client and GraphQL code generator with GraphQL autocomplete library generation ⚡⚡⚡ for browser,nodejs and react native ( apollo compatible ) |
@@ -954,6 +953,7 @@
 | [ospfranco/react-native-quick-sqlite](https://github.com/ospfranco/react-native-quick-sqlite) | Fast SQLite for react-native. |
 | [ricardoemerson/create-react-tsx-component](https://github.com/ricardoemerson/create-react-tsx-component) | Create React TSX Component - Extension that creates React Component using Typescript with Styled Components. |
 | [rajannpatel/Pi-Hole-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-Wireguard-VPN-Configs](https://github.com/rajannpatel/Pi-Hole-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-Wireguard-VPN-Configs) | Run your own privacy-first ad blocking service at home, or in the cloud for free with Google Cloud Services. |
+| [agrinman/tunnelto](https://github.com/agrinman/tunnelto) | Expose your local web server to the internet with a public URL. |
 | [darius-khll/golang-developer-roadmap](https://github.com/darius-khll/golang-developer-roadmap) | Roadmap to becoming a Go developer in 2020 |
 | [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) | A bunch of links to blog posts, articles, videos, etc for learning Rust |
 | [xiaohanyu/awesome-tikz](https://github.com/xiaohanyu/awesome-tikz) | A curated list of awesome TikZ documentations, libraries and resources |

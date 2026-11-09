@@ -2,18 +2,19 @@
 
 > My GitHub stars, grouped by language. Updated daily by [a GitHub Actions workflow](.github/workflows/workflow.yml).
 
-![Total](https://img.shields.io/badge/Total-699-green.svg)
-![Updated](https://img.shields.io/badge/Updated-2026--11--05-blue.svg)
+![Total](https://img.shields.io/badge/Total-700-green.svg)
+![Updated](https://img.shields.io/badge/Updated-2026--11--09-blue.svg)
 
 ## Contents
 
 - [Recently starred](#recently-starred)
-- Languages: [C](#c) (5) · [C#](#c-1) (1) · [C++](#c-2) (7) · [Clojure](#clojure) (1) · [CMake](#cmake) (2) · [CSS](#css) (4) · [Dart](#dart) (3) · [Dockerfile](#dockerfile) (4) · [Elixir](#elixir) (1) · [Go](#go) (122) · [Haskell](#haskell) (1) · [HCL](#hcl) (2) · [HTML](#html) (8) · [Java](#java) (5) · [JavaScript](#javascript) (83) · [Jupyter Notebook](#jupyter-notebook) (1) · [Kotlin](#kotlin) (16) · [Lua](#lua) (3) · [Makefile](#makefile) (2) · [MDX](#mdx) (5) · [Mustache](#mustache) (1) · [Objective-C](#objective-c) (1) · [PHP](#php) (8) · [Python](#python) (31) · [Ruby](#ruby) (1) · [Rust](#rust) (71) · [SCSS](#scss) (2) · [Shell](#shell) (12) · [Starlark](#starlark) (1) · [Swift](#swift) (26) · [TeX](#tex) (1) · [TypeScript](#typescript) (238) · [Vim Script](#vim-script) (1) · [Vue](#vue) (3) · [Other](#other) (26)
+- Languages: [C](#c) (5) · [C#](#c-1) (1) · [C++](#c-2) (7) · [Clojure](#clojure) (1) · [CMake](#cmake) (2) · [CSS](#css) (4) · [Dart](#dart) (3) · [Dockerfile](#dockerfile) (4) · [Elixir](#elixir) (1) · [Go](#go) (122) · [Haskell](#haskell) (1) · [HCL](#hcl) (2) · [HTML](#html) (8) · [Java](#java) (5) · [JavaScript](#javascript) (83) · [Jupyter Notebook](#jupyter-notebook) (1) · [Kotlin](#kotlin) (16) · [Lua](#lua) (3) · [Makefile](#makefile) (2) · [MDX](#mdx) (5) · [Mustache](#mustache) (1) · [Objective-C](#objective-c) (1) · [PHP](#php) (8) · [Python](#python) (32) · [Ruby](#ruby) (1) · [Rust](#rust) (71) · [SCSS](#scss) (2) · [Shell](#shell) (12) · [Starlark](#starlark) (1) · [Swift](#swift) (26) · [TeX](#tex) (1) · [TypeScript](#typescript) (238) · [Vim Script](#vim-script) (1) · [Vue](#vue) (3) · [Other](#other) (26)
 
 ## Recently starred
 
 | Repository | Description | Language |
 | --- | --- | --- |
+| [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | Secure, Fast, and Extensible Sandbox runtime for AI agents. | [Python](#python) |
 | [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) | 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier. | [Python](#python) |
 | [emanuele-em/kanzo](https://github.com/emanuele-em/kanzo) | Self-hosted, sharable kanban for humans and agents. One 4.5 MB binary, 4.5 MB of RAM, 10 to 60 tokens per agent reply, starts in 2 ms, zero setup. | [Rust](#rust) |
 | [colinhacks/reylo](https://github.com/colinhacks/reylo) | Import .sql files into TypeScript with full type inference and zero codegen. | [Rust](#rust) |
@@ -23,7 +24,6 @@
 | [hardbeat920/monocode](https://github.com/hardbeat920/monocode) | A GUI for your coding agents | [Rust](#rust) |
 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. | [JavaScript](#javascript) |
 | [coldteadotai/pr-lens](https://github.com/coldteadotai/pr-lens) | Review code 100X faster. Lens draws every PR as animated architecture and data-flow walkthroughs, inside the pull request itself. Use it as a GitHub App, GitHub Action, CLI, or a Skill for your coding agent | [TypeScript](#typescript) |
-| [Augani/dory](https://github.com/Augani/dory) | Dory is the complete local development system for Apple Silicon: Docker, Compose, Kubernetes, virtual machines, and policy-bound agent sandboxes. | [Swift](#swift) |
 
 ## C
 
@@ -476,6 +476,7 @@
 
 | Repository | Description |
 | --- | --- |
+| [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | Secure, Fast, and Extensible Sandbox runtime for AI agents. |
 | [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) | 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier. |
 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | Hindsight: Agent Memory That Learns |
 | [securo-finance/securo](https://github.com/securo-finance/securo) | Open-source personal finance manager. Self-hosted, privacy-first. |

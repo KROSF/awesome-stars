@@ -2,18 +2,20 @@
 
 > My GitHub stars, grouped by language. Updated daily by [a GitHub Actions workflow](.github/workflows/workflow.yml).
 
-![Total](https://img.shields.io/badge/Total-701-green.svg)
-![Updated](https://img.shields.io/badge/Updated-2026--11--17-blue.svg)
+![Total](https://img.shields.io/badge/Total-703-green.svg)
+![Updated](https://img.shields.io/badge/Updated-2026--11--19-blue.svg)
 
 ## Contents
 
 - [Recently starred](#recently-starred)
-- Languages: [C](#c) (5) · [C#](#c-1) (1) · [C++](#c-2) (7) · [Clojure](#clojure) (1) · [CMake](#cmake) (2) · [CSS](#css) (4) · [Dart](#dart) (3) · [Dockerfile](#dockerfile) (4) · [Elixir](#elixir) (1) · [Go](#go) (122) · [Haskell](#haskell) (1) · [HCL](#hcl) (2) · [HTML](#html) (8) · [Java](#java) (5) · [JavaScript](#javascript) (83) · [Jupyter Notebook](#jupyter-notebook) (1) · [Kotlin](#kotlin) (16) · [Lua](#lua) (3) · [Makefile](#makefile) (2) · [MDX](#mdx) (5) · [Mustache](#mustache) (1) · [Objective-C](#objective-c) (1) · [PHP](#php) (8) · [Python](#python) (32) · [Ruby](#ruby) (1) · [Rust](#rust) (71) · [SCSS](#scss) (2) · [Shell](#shell) (12) · [Starlark](#starlark) (1) · [Swift](#swift) (27) · [TeX](#tex) (1) · [TypeScript](#typescript) (238) · [Vim Script](#vim-script) (1) · [Vue](#vue) (3) · [Other](#other) (26)
+- Languages: [C](#c) (5) · [C#](#c-1) (1) · [C++](#c-2) (7) · [Clojure](#clojure) (1) · [CMake](#cmake) (2) · [CSS](#css) (4) · [Dart](#dart) (3) · [Dockerfile](#dockerfile) (4) · [Elixir](#elixir) (1) · [Go](#go) (122) · [Haskell](#haskell) (1) · [HCL](#hcl) (2) · [HTML](#html) (8) · [Java](#java) (5) · [JavaScript](#javascript) (83) · [Jupyter Notebook](#jupyter-notebook) (1) · [Kotlin](#kotlin) (17) · [Lua](#lua) (3) · [Makefile](#makefile) (2) · [MDX](#mdx) (5) · [Mustache](#mustache) (1) · [Objective-C](#objective-c) (1) · [PHP](#php) (8) · [Python](#python) (32) · [Ruby](#ruby) (1) · [Rust](#rust) (71) · [SCSS](#scss) (2) · [Shell](#shell) (12) · [Starlark](#starlark) (1) · [Swift](#swift) (27) · [TeX](#tex) (1) · [TypeScript](#typescript) (239) · [Vim Script](#vim-script) (1) · [Vue](#vue) (3) · [Other](#other) (26)
 
 ## Recently starred
 
 | Repository | Description | Language |
 | --- | --- | --- |
+| [interfere-inc/landmines](https://github.com/interfere-inc/landmines) | Oxlint rules that keep AI-written code honest: real implementations, real signals, no flake masking. | [TypeScript](#typescript) |
+| [flexbox/MrCuisineVibeConnect](https://github.com/flexbox/MrCuisineVibeConnect) | Toque: a modern replacement interface for the Lidl Monsieur Cuisine Connect (SKMC 1200), with the official recipes, guided cooking and an AI-agent-friendly install guide. | [Kotlin](#kotlin) |
 | [rostik32/zest](https://github.com/rostik32/zest) | Fig / Kiro CLI / Amazon Q alternative: IDE-style autocomplete popup for zsh on macOS. Subcommands, options, git branches and files with descriptions in Terminal, iTerm2, Ghostty, VS Code and Cursor. Native Swift, 1,500 commands, MIT. | [Swift](#swift) |
 | [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | Secure, Fast, and Extensible Sandbox runtime for AI agents. | [Python](#python) |
 | [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) | 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier. | [Python](#python) |
@@ -22,8 +24,6 @@
 | [croffasia/itsaplan](https://github.com/croffasia/itsaplan) | ⭐️⭐️⭐️ Open-source, self-hosted alternative to Linear and Plane. Project management and issue tracking where teams and AI agents work side by side to plan and ship products. | [TypeScript](#typescript) |
 | [productdevbook/etiket](https://github.com/productdevbook/etiket) | Zero-dependency barcode & QR code SVG, PNG generator. 40+ formats, styled QR codes, tree-shakeable. Pure TypeScript. | [TypeScript](#typescript) |
 | [cloudflare/workerd](https://github.com/cloudflare/workerd) | The JavaScript / Wasm runtime that powers Cloudflare Workers | [C++](#c-2) |
-| [hardbeat920/monocode](https://github.com/hardbeat920/monocode) | A GUI for your coding agents | [Rust](#rust) |
-| [tt-a1i/archify](https://github.com/tt-a1i/archify) | Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. | [JavaScript](#javascript) |
 
 ## C
 
@@ -391,6 +391,7 @@
 
 | Repository | Description |
 | --- | --- |
+| [flexbox/MrCuisineVibeConnect](https://github.com/flexbox/MrCuisineVibeConnect) | Toque: a modern replacement interface for the Lidl Monsieur Cuisine Connect (SKMC 1200), with the official recipes, guided cooking and an AI-agent-friendly install guide. |
 | [skydoves/landscapist](https://github.com/skydoves/landscapist) | 🌻 A pluggable, lightweight, highly optimized Jetpack Compose and Kotlin Multiplatform image loading library that fetches and displays network images. |
 | [juancresc/SMSHub](https://github.com/juancresc/SMSHub) | Android SMS Gateway application for sending and receiving SMS via HTTP API in Kotlin |
 | [afollestad/material-dialogs](https://github.com/afollestad/material-dialogs) | 😍 A beautiful, fluid, and extensible dialogs API for Kotlin & Android. |
@@ -679,6 +680,7 @@
 
 | Repository | Description |
 | --- | --- |
+| [interfere-inc/landmines](https://github.com/interfere-inc/landmines) | Oxlint rules that keep AI-written code honest: real implementations, real signals, no flake masking. |
 | [croffasia/itsaplan](https://github.com/croffasia/itsaplan) | ⭐️⭐️⭐️ Open-source, self-hosted alternative to Linear and Plane. Project management and issue tracking where teams and AI agents work side by side to plan and ship products. |
 | [productdevbook/etiket](https://github.com/productdevbook/etiket) | Zero-dependency barcode & QR code SVG, PNG generator. 40+ formats, styled QR codes, tree-shakeable. Pure TypeScript. |
 | [coldteadotai/pr-lens](https://github.com/coldteadotai/pr-lens) | Review code 100X faster. Lens draws every PR as animated architecture and data-flow walkthroughs, inside the pull request itself. Use it as a GitHub App, GitHub Action, CLI, or a Skill for your coding agent |

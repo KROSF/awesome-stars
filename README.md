@@ -2,18 +2,20 @@
 
 > My GitHub stars, grouped by language. Updated daily by [a GitHub Actions workflow](.github/workflows/workflow.yml).
 
-![Total](https://img.shields.io/badge/Total-703-green.svg)
-![Updated](https://img.shields.io/badge/Updated-2026--11--19-blue.svg)
+![Total](https://img.shields.io/badge/Total-705-green.svg)
+![Updated](https://img.shields.io/badge/Updated-2026--11--20-blue.svg)
 
 ## Contents
 
 - [Recently starred](#recently-starred)
-- Languages: [C](#c) (5) · [C#](#c-1) (1) · [C++](#c-2) (7) · [Clojure](#clojure) (1) · [CMake](#cmake) (2) · [CSS](#css) (4) · [Dart](#dart) (3) · [Dockerfile](#dockerfile) (4) · [Elixir](#elixir) (1) · [Go](#go) (122) · [Haskell](#haskell) (1) · [HCL](#hcl) (2) · [HTML](#html) (8) · [Java](#java) (5) · [JavaScript](#javascript) (83) · [Jupyter Notebook](#jupyter-notebook) (1) · [Kotlin](#kotlin) (17) · [Lua](#lua) (3) · [Makefile](#makefile) (2) · [MDX](#mdx) (5) · [Mustache](#mustache) (1) · [Objective-C](#objective-c) (1) · [PHP](#php) (8) · [Python](#python) (32) · [Ruby](#ruby) (1) · [Rust](#rust) (71) · [SCSS](#scss) (2) · [Shell](#shell) (12) · [Starlark](#starlark) (1) · [Swift](#swift) (27) · [TeX](#tex) (1) · [TypeScript](#typescript) (239) · [Vim Script](#vim-script) (1) · [Vue](#vue) (3) · [Other](#other) (26)
+- Languages: [C](#c) (5) · [C#](#c-1) (1) · [C++](#c-2) (7) · [Clojure](#clojure) (1) · [CMake](#cmake) (2) · [CSS](#css) (4) · [Dart](#dart) (3) · [Dockerfile](#dockerfile) (4) · [Elixir](#elixir) (1) · [Go](#go) (122) · [Haskell](#haskell) (1) · [HCL](#hcl) (2) · [HTML](#html) (8) · [Java](#java) (5) · [JavaScript](#javascript) (84) · [Jupyter Notebook](#jupyter-notebook) (1) · [Kotlin](#kotlin) (17) · [Lua](#lua) (3) · [Makefile](#makefile) (2) · [MDX](#mdx) (5) · [Mustache](#mustache) (1) · [Objective-C](#objective-c) (1) · [PHP](#php) (9) · [Python](#python) (32) · [Ruby](#ruby) (1) · [Rust](#rust) (71) · [SCSS](#scss) (2) · [Shell](#shell) (12) · [Starlark](#starlark) (1) · [Swift](#swift) (27) · [TeX](#tex) (1) · [TypeScript](#typescript) (239) · [Vim Script](#vim-script) (1) · [Vue](#vue) (3) · [Other](#other) (26)
 
 ## Recently starred
 
 | Repository | Description | Language |
 | --- | --- | --- |
+| [ulsklyc/yuvomi](https://github.com/ulsklyc/yuvomi) | One home instead of many subscriptions. Yuvomi is a self-hosted family planner: tasks, calendar, budget, meals, shopping, health and more in one PWA on your own server or NAS. Docker, Podman, TrueNAS, Umbrel, Unraid, Portainer, Home Assistant, YunoHost, Proxmox. No tracking, MIT. | [JavaScript](#javascript) |
+| [databasifylabs/databasify](https://github.com/databasifylabs/databasify) | An open-source, self-hostable DBaaS alternative to DigitalOcean Managed Databases, Amazon RDS & Aiven that lets you run PostgreSQL, MySQL, MariaDB, MongoDB, Valkey and Redis, from a single node to a highly available cluster with automatic failover, point-in-time backups and TLS, on your own servers. | [PHP](#php) |
 | [interfere-inc/landmines](https://github.com/interfere-inc/landmines) | Oxlint rules that keep AI-written code honest: real implementations, real signals, no flake masking. | [TypeScript](#typescript) |
 | [flexbox/MrCuisineVibeConnect](https://github.com/flexbox/MrCuisineVibeConnect) | Toque: a modern replacement interface for the Lidl Monsieur Cuisine Connect (SKMC 1200), with the official recipes, guided cooking and an AI-agent-friendly install guide. | [Kotlin](#kotlin) |
 | [rostik32/zest](https://github.com/rostik32/zest) | Fig / Kiro CLI / Amazon Q alternative: IDE-style autocomplete popup for zsh on macOS. Subcommands, options, git branches and files with descriptions in Terminal, iTerm2, Ghostty, VS Code and Cursor. Native Swift, 1,500 commands, MIT. | [Swift](#swift) |
@@ -22,8 +24,6 @@
 | [emanuele-em/kanzo](https://github.com/emanuele-em/kanzo) | Self-hosted, sharable kanban for humans and agents. One 4.5 MB binary, 4.5 MB of RAM, 10 to 60 tokens per agent reply, starts in 2 ms, zero setup. | [Rust](#rust) |
 | [colinhacks/reylo](https://github.com/colinhacks/reylo) | Import .sql files into TypeScript with full type inference and zero codegen. | [Rust](#rust) |
 | [croffasia/itsaplan](https://github.com/croffasia/itsaplan) | ⭐️⭐️⭐️ Open-source, self-hosted alternative to Linear and Plane. Project management and issue tracking where teams and AI agents work side by side to plan and ship products. | [TypeScript](#typescript) |
-| [productdevbook/etiket](https://github.com/productdevbook/etiket) | Zero-dependency barcode & QR code SVG, PNG generator. 40+ formats, styled QR codes, tree-shakeable. Pure TypeScript. | [TypeScript](#typescript) |
-| [cloudflare/workerd](https://github.com/cloudflare/workerd) | The JavaScript / Wasm runtime that powers Cloudflare Workers | [C++](#c-2) |
 
 ## C
 
@@ -293,6 +293,7 @@
 
 | Repository | Description |
 | --- | --- |
+| [ulsklyc/yuvomi](https://github.com/ulsklyc/yuvomi) | One home instead of many subscriptions. Yuvomi is a self-hosted family planner: tasks, calendar, budget, meals, shopping, health and more in one PWA on your own server or NAS. Docker, Podman, TrueNAS, Umbrel, Unraid, Portainer, Home Assistant, YunoHost, Proxmox. No tracking, MIT. |
 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. |
 | [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config. |
 | [alam00000/bentopdf](https://github.com/alam00000/bentopdf) | The Privacy First PDF Toolkit |
@@ -462,6 +463,7 @@
 
 | Repository | Description |
 | --- | --- |
+| [databasifylabs/databasify](https://github.com/databasifylabs/databasify) | An open-source, self-hostable DBaaS alternative to DigitalOcean Managed Databases, Amazon RDS & Aiven that lets you run PostgreSQL, MySQL, MariaDB, MongoDB, Valkey and Redis, from a single node to a highly available cluster with automatic failover, point-in-time backups and TLS, on your own servers. |
 | [coollabsio/coolify](https://github.com/coollabsio/coolify) | An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers. |
 | [austinkregel/finance](https://github.com/austinkregel/finance) | A self hosted app to help you get a better understanding of your personal finances. |
 | [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) | Your web application for managing personal data. |
